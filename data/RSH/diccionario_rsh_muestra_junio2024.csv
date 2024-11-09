@@ -1,0 +1,94 @@
+Glosa.variable;Variable;Tipo;Opciones.de.respuesta;Glosa.de.respuesta
+Periodo de referencia del RSH;PERIODO_RSH;cadena;AAAAMMDD;Indica año, mes, dia 
+Identificador de persona ficticio;RUNF;cadena;;
+Identificador de grupo familiar ficticio;FOLIOF;cadena;;
+Rango etario ;RANGO_ETARIO;categoria;0-3;
+;;;4-5;
+;;;6-13;
+;;;14-17;
+;;;18-24;
+;;;25-44;
+;;;45-64;
+;;;65+;
+Sexo ;PER_SEXO_ID;categoria;1;Masculino
+;;;2;Femenino
+Parentesco en relación con el jefe(a) de hogar.;PARENTESCOID;categoria;0;Sin información
+;;;1;Jefe(a) de Hogar
+;;;2;Cónyuge o pareja
+;;;3;Hijo(a) de ambos o de uno sólo
+;;;4;Otros familiares directos o indirecto (Padres / Hermanos / Nietos / Suegros / Yerno- nuera / Cuñados/ Otros)
+Nacionalidad;NACIONALIDAD_ID;categoria;0;Sin información
+;;;1;Chileno
+;;;2;Extranjero
+Pertenencia a un pueblo originario;FL_PPO;categoria;0;No pertenece a un pueblo originario
+;;;1;Pertenece a un pueblo originario
+Situación laboral ;TRABAJO;categoria;0;No trabaja
+;;;1;Trabaja
+Presencia de discapacidad o dependencia o necesidades educativas especiales;DISC_DEP_NEE;categoria;0;No presenta discapacidad, ni dependencia ni necesidades educativas especiales
+;;;1;Presenta algun nivel de : discapacidad, dependencia o necesidades educativas especiales
+Dispone de medios de alto valor o muy alto valor;MEDIOS_ACTIVOS;categoria;0;No tiene medios de alto valor o muy alto valor
+;;;1;Presenta al menos un medio de alto valor o de muy alto valor
+Años de escolaridad;ESCOLARIDAD;número;;años de escolaridad, rango (0 a 21)
+Niveles de educación;TIPO_EDUC_CURSO;categoria;0;Sin escolaridad 
+;;;1;Básica completa
+;;;2;Básica incompleta
+;;;3;Media completa
+;;;4;Media incompleta
+;;;5;Superior completa
+;;;6;Superior incompleta
+Asistencia escolar en educación básica o media ;ASISTENCIA;categoria;0;No ha asistido a algun establecimiento escolar (niveles básico y media)
+;;;1;Ha asistido a algun establecimiento escolar (niveles básico y media)
+Tipo de vivienda en la que reside ;TIPOVIVIENDA;categoria;1;Casa
+;;;2;Departamento
+;;;3;Pieza dentro de vivienda
+;;;4;Hospedería / Vivienda colectiva / Residencial, pensión / Mejora, mediagua / Rancho, ruca o choza/Vivienda de desecho /Caleta o punto de calle / Sin Información
+Situación de sitio respecto de la propiedad;SITUACIONSITIO;categoria;1;Propio pagado o pagándose
+;;;2;Arrendado
+;;;3;Cedido, uso gratuito
+;;;4;Usufructo (solo uso y goce) / Ocupación irregular / Poseedor irregular / Sin Información
+Situación de la vivienda respecto de la propiedad;SITUACIONVIVIENDA;categoria;1;Propia pagada o pagándose
+;;;2;Arrendada
+;;;3;Cedida  uso gratuito
+;;;4;Usufructo (solo uso y goce) / Ocupación irregular / Poseedor irregular / Sin Información
+Fuente de agua que abastece a la vivienda;FUENTEAGUA;categoria;1;Red pública con medidor propio
+;;;2;Red pública con medidor compartido
+;;;3;Red pública sin medidor / Pozo o noria /Río, vertiente o estero / Otra fuente (no potable) / Sin información
+Distribución de agua al interior de la vivienda;DISTRIBUCIONAGUA;categoria;0;No tiene sistema, la acarrea / Sin Información
+;;;1;Con llave dentro de la vivienda
+;;;2;Con llave dentro del sitio, pero fuera de la vivienda
+Sistema de baño que posee la vivienda;SISTEMABANO;categoria;0;No tiene / Sin información
+;;;1;WC Conectado a alcantarillado
+;;;2;WC Conectado a fosa séptica
+;;;3;Cajón, letrina o WC sobre pozo negro, acequia, canal u otro sistema
+Número de dormitorios ocupados;DORMITORIOSOCUPADOS;categoria;0;Sin información
+;;;1;1 dormitorio 
+;;;2;2 dormitorios
+;;;3;3 dormitorios
+;;;4;4 o más dormitorios
+Principal ocupante de la vivienda o sitio;PRINCIPALOCUPANTE;categoria;1;Principal ocupante
+;;;2;No tiene o sin información
+Código de región;C_REGION;categoria;1;Región de Tarapacá
+;;;2;Región de Antofagasta
+;;;3;Región de Atacama
+;;;4;Región de Coquimbo
+;;;5;Región de Valparaíso
+;;;6;Región del Libertador General Bernardo O’Higgins
+;;;7;Región del Maule
+;;;8;Región del Biobío
+;;;9;Región de La Araucanía
+;;;10;Región de Los Lagos
+;;;11;Región de Aysén del General Carlos Ibáñez del Campo
+;;;12;Región de Magallanes y la Antártica Chilena
+;;;13;Región Metropolitana de Santiago
+;;;14;Región de Los Ríos
+;;;15;Región de Arica y Parinacota
+;;;16;Región del Ñuble
+Tipo de zona ;GRUPFAMI_C_ZONA;categoria;1;Urbano
+;;;2;No urbano
+Tramo de calificación socieconómica ;TRAMO_CSE;categoria;40;Hogar calificados en el tramo 0-40 de mayor vulnerabilidad 
+;;;50;Hogar calificados en el tramo 41-50 de mayor vulnerabilidad 
+;;;60;Hogar calificados en el tramo 51-60 de mayor vulnerabilidad 
+;;;70;Hogar calificados en el tramo 61-70 de mayor vulnerabilidad 
+;;;80;Hogar calificados en el tramo 71-80 de menor vulnerabilidad 
+;;;90;Hogar calificados en el tramo 81-90 de menor vulnerabilidad 
+;;;100;Hogar calificados en el tramo 91-100 de menor vulnerabilidad 
