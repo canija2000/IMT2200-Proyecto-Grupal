@@ -1,0 +1,165 @@
+[out:json][timeout:300];
+area["name"="Región Metropolitana de Santiago"]->.searchArea;
+
+// Transporte Público
+// Paradas de buses
+node["highway"="bus_stop"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Estaciones de metro
+node["railway"="station"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Terminales de buses
+node["amenity"="bus_station"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Rutas de buses
+relation["route"="bus"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Rutas de metro
+relation["route"="subway"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Plataformas de transporte público
+node["public_transport"="platform"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Entradas de metro
+node["railway"="subway_entrance"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Infraestructura Vial y Conexiones de Transporte
+way["highway"~"motorway|primary|secondary|tertiary|residential"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Señales de tráfico y peajes
+node["highway"="traffic_signals"](area.searchArea);
+out body;
+>;
+out skel qt;
+node["barrier"="toll_booth"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Estacionamientos
+node["amenity"="parking"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Infraestructura Peatonal y Ciclovías
+way["highway"="footway"](area.searchArea);
+out body;
+>;
+out skel qt;
+way["highway"="cycleway"](area.searchArea);
+out body;
+>;
+out skel qt;
+node["highway"="crossing"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Uso de Suelo
+way["landuse"~"residential|commercial|industrial|recreation_ground|farmland"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Servicios y Puntos de Interés
+// Servicios de salud
+node["amenity"~"hospital|clinic"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Educación
+node["amenity"~"school|university|college"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Bancos
+node["amenity"="bank"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Comercio
+node["shop"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Oficinas
+node["office"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Puntos turísticos y culturales
+node["tourism"~"attraction|museum|gallery"](area.searchArea);
+out body;
+>;
+out skel qt;
+node["historic"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Parques y Zonas Recreativas
+node["leisure"~"park|sports_centre|playground"](area.searchArea);
+out body;
+>;
+out skel qt;
+way["natural"~"wood|water"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Zonas de Riesgo y Emergencia
+node["emergency"](area.searchArea);
+out body;
+>;
+out skel qt;
+node["natural"~"bay|volcano|earthquake"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Calidad Ambiental y Zonas Verdes
+node["natural"~"wood|forest|grassland"](area.searchArea);
+out body;
+>;
+out skel qt;
+node["leisure"="garden"](area.searchArea);
+out body;
+>;
+out skel qt;
+
+// Proyectos de Construcción en Progreso
+way["construction"](area.searchArea);
+out body;
+>;
+out skel qt;
+
