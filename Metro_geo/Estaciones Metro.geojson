@@ -1,0 +1,3988 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-11-10T14:25:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/141096340",
+        "name": "Toesca",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1978-03-31",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q6356262",
+        "wikipedia": "en:Toesca metro station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6585851,
+          -33.4529746
+        ]
+      },
+      "id": "node/141096340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/227926453",
+        "name": "Rondizzoni",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1978-03-31",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q10656756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6563736,
+          -33.4696578
+        ]
+      },
+      "id": "node/227926453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252527589",
+        "name": "Escuela Militar",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1980-08-31",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q5249688",
+        "wikipedia": "es:Escuela Militar (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5826796,
+          -33.4134817
+        ]
+      },
+      "id": "node/252527589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252527592",
+        "addr:city": "Las Condes",
+        "addr:street": "Avenida Apoquindo",
+        "name": "Alcántara",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1980-08-31",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "no",
+        "wikidata": "Q4713400",
+        "wikipedia": "es:Alcántara (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5899906,
+          -33.4154469
+        ]
+      },
+      "id": "node/252527592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252527596",
+        "name": "El Golf",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1980-08-31",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q5351318",
+        "wikipedia": "es:El Golf (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5957077,
+          -33.4166189
+        ]
+      },
+      "id": "node/252527596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252527597",
+        "name": "Tobalaba",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1980-08-31",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q5243191",
+        "wikipedia": "es:Tobalaba (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6014872,
+          -33.4182154
+        ]
+      },
+      "id": "node/252527597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252527599",
+        "name": "Pedro de Valdivia",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1980-08-31",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "no",
+        "wikidata": "Q7160052",
+        "wikipedia": "es:Pedro de Valdivia (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6137959,
+          -33.425483
+        ]
+      },
+      "id": "node/252527599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252527600",
+        "name": "Manuel Montt",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1980-08-31",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q6752749",
+        "wikipedia": "es:Manuel Montt (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6196465,
+          -33.4285532
+        ]
+      },
+      "id": "node/252527600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252527603",
+        "name": "Universidad Católica",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "short_name": "U. Católica",
+        "start_date": "1977-03-31",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q5249006",
+        "wikipedia": "es:Universidad Católica (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6398924,
+          -33.4397617
+        ]
+      },
+      "id": "node/252527603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252527604",
+        "name": "Santa Lucía",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1977-03-31",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "no",
+        "wikidata": "Q3296100",
+        "wikipedia": "es:Santa Lucía (estación del Metro de Santiago)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6447442,
+          -33.4424649
+        ]
+      },
+      "id": "node/252527604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252528383",
+        "name": "República",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1975-09-15",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q5249682",
+        "wikipedia": "es:República (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6671366,
+          -33.447702
+        ]
+      },
+      "id": "node/252528383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252528387",
+        "name": "Unión Latinoamericana",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "short_name": "U.L.A.",
+        "start_date": "1975-09-15",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "no",
+        "wikidata": "Q5249662",
+        "wikipedia": "es:Unión Latinoamericana (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.673351,
+          -33.4493623
+        ]
+      },
+      "id": "node/252528387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252528391",
+        "name": "Estación Central",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1975-09-15",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "website": "https://www.metro.cl/",
+        "wikidata": "Q5244875",
+        "wikipedia": "es:Estación Central (estación del Metro de Santiago)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6789622,
+          -33.4508228
+        ]
+      },
+      "id": "node/252528391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252981526",
+        "name": "Cristóbal Colón",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5186514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5909808,
+          -33.4263163
+        ]
+      },
+      "id": "node/252981526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252981531",
+        "name": "Francisco Bilbao",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q5483195",
+        "wikipedia": "es:Francisco Bilbao (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.584703,
+          -33.4317928
+        ]
+      },
+      "id": "node/252981531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252981541",
+        "name": "Príncipe de Gales",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q7253835",
+        "wikipedia": "es:Príncipe de Gales (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5731497,
+          -33.4392047
+        ]
+      },
+      "id": "node/252981541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252981546",
+        "name": "Simón Bolívar",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5395486",
+        "wikipedia": "es:Simón Bolívar (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5719261,
+          -33.4461845
+        ]
+      },
+      "id": "node/252981546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253281389",
+        "name": "Bellas Artes",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2000-03-02",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q4883519",
+        "wikipedia": "es:Bellas Artes (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6441329,
+          -33.4366322
+        ]
+      },
+      "id": "node/253281389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253281419",
+        "name": "Cumming",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2004-03-31",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q5794757",
+        "wikipedia": "es:Cumming (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.668534,
+          -33.4391444
+        ]
+      },
+      "id": "node/253281419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253282351",
+        "name": "Universidad de Santiago",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "old_name": "Universidad Técnica",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1975-09-15",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q5249675",
+        "wikipedia": "es:Universidad de Santiago (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6865552,
+          -33.4528554
+        ]
+      },
+      "id": "node/253282351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253282358",
+        "name": "San Alberto Hurtado",
+        "name:1975-09-15--2005-11-22": "Pila del Ganso",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "old_name": "Pila del Ganso",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1975-09-15",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q5243861",
+        "wikipedia": "es:San Alberto Hurtado (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6922721,
+          -33.4542019
+        ]
+      },
+      "id": "node/253282358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253282361",
+        "name": "Ecuador",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1975-09-15",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q5250951",
+        "wikipedia": "es:Ecuador (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6997325,
+          -33.4559226
+        ]
+      },
+      "id": "node/253282361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253282379",
+        "name": "Las Rejas",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1975-09-15",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q5249655",
+        "wikipedia": "es:Las Rejas (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7067561,
+          -33.4575386
+        ]
+      },
+      "id": "node/253282379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253282383",
+        "addr:city": "Lo Prado",
+        "addr:street": "Avenida General Óscar Bonilla",
+        "air_conditioning": "no",
+        "baby_feeding": "no",
+        "check_date": "2024-06-01",
+        "name": "Pajaritos",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "nohousenumber": "yes",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1975-09-15",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q6311190",
+        "wikipedia": "es:Pajaritos (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7154469,
+          -33.4574748
+        ]
+      },
+      "id": "node/253282383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253294531",
+        "name": "Santa Isabel",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1997-04-05",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q6120443",
+        "wikipedia": "es:Santa Isabel (estación del Metro de Santiago)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6304343,
+          -33.4471204
+        ]
+      },
+      "id": "node/253294531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253295159",
+        "name": "Mirador",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1997-04-05",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q610924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6059146,
+          -33.5133028
+        ]
+      },
+      "id": "node/253295159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253295163",
+        "name": "Pedrero",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1997-04-05",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q7159396",
+        "wikipedia": "es:Pedrero (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6124467,
+          -33.5079499
+        ]
+      },
+      "id": "node/253295163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253295175",
+        "description": "Estación Ruta Roja",
+        "name": "Camino Agrícola",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1997-04-05",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "wikidata": "Q5026775"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6175195,
+          -33.4917907
+        ]
+      },
+      "id": "node/253295175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253295179",
+        "description": "Estación Ruta Verde",
+        "name": "Carlos Valdovinos",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1997-04-05",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q384837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6191824,
+          -33.4863985
+        ]
+      },
+      "id": "node/253295179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253295184",
+        "name": "Rodrigo de Araya",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1997-04-05",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q6110846"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6222636,
+          -33.4778167
+        ]
+      },
+      "id": "node/253295184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253360557",
+        "name": "Parque O'Higgins",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1978-03-31",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5574675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6568466,
+          -33.4608472
+        ]
+      },
+      "id": "node/253360557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254343697",
+        "name": "Quinta Normal",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2004-03-31",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q7272365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6802912,
+          -33.440368
+        ]
+      },
+      "id": "node/254343697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256372838",
+        "name": "Los Orientales",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q9024101",
+        "wikipedia": "es:Los Orientales (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5739242,
+          -33.4626181
+        ]
+      },
+      "id": "node/256372838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256372848",
+        "name": "Grecia",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q5885152",
+        "wikipedia": "es:Grecia (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5765034,
+          -33.4695344
+        ]
+      },
+      "id": "node/256372848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256373484",
+        "name": "Los Presidentes",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2006-03-02",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q15242908",
+        "wikipedia": "es:Los Presidentes (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5786662,
+          -33.479837
+        ]
+      },
+      "id": "node/256373484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256374109",
+        "name": "Quilín",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2006-03-02",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q7272039",
+        "wikipedia": "es:Quilín (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5804178,
+          -33.4882637
+        ]
+      },
+      "id": "node/256374109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256374120",
+        "name": "Las Torres",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2006-03-02",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q9020552",
+        "wikipedia": "es:Las Torres (estación del Metro de Santiago)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5865459,
+          -33.499108
+        ]
+      },
+      "id": "node/256374120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256374127",
+        "name": "Macul",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2006-03-02",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q11690171",
+        "wikipedia": "es:Macul (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5900473,
+          -33.5092379
+        ]
+      },
+      "id": "node/256374127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256377241",
+        "addr:city": "La Florida",
+        "addr:street": "Avenida Vicuña Mackenna",
+        "name": "Rojas Magallanes",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q7359919",
+        "wikipedia": "es:Rojas Magallanes (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5926966,
+          -33.5361069
+        ]
+      },
+      "id": "node/256377241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256377430",
+        "addr:city": "La Florida",
+        "addr:street": "Avenida Vicuña Mackenna",
+        "name": "Trinidad",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q7842489",
+        "wikipedia": "es:Trinidad (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5881027,
+          -33.5462943
+        ]
+      },
+      "id": "node/256377430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256377970",
+        "addr:city": "La Florida",
+        "addr:street": "Avenida Vicuña Mackenna",
+        "name": "Los Quillayes",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q6683179",
+        "wikipedia": "es:Los Quillayes (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5852697,
+          -33.5612253
+        ]
+      },
+      "id": "node/256377970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256378408",
+        "addr:city": "Puente Alto",
+        "addr:street": "Avenida Concha y Toro",
+        "name": "Elisa Correa",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5829529",
+        "wikipedia": "es:Elisa Correa (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5838076,
+          -33.5692937
+        ]
+      },
+      "id": "node/256378408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256378595",
+        "addr:city": "Puente Alto",
+        "addr:street": "Avenida Concha y Toro",
+        "name": "Hospital Sótero del Río",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5902927",
+        "wikipedia": "es:Hospital Sótero del Río (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.582317,
+          -33.5768981
+        ]
+      },
+      "id": "node/256378595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256379524",
+        "name": "Protectora de la Infancia",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q6088452",
+        "wikipedia": "es:Protectora de la Infancia (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.579833,
+          -33.5895738
+        ]
+      },
+      "id": "node/256379524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256999811",
+        "name": "Bellavista de La Florida",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1997-04-05",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q4883560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6000324,
+          -33.5195245
+        ]
+      },
+      "id": "node/256999811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/265684316",
+        "name": "Cementerios",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-25",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q5058674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.643597,
+          -33.4139806
+        ]
+      },
+      "id": "node/265684316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/265684322",
+        "name": "Zapadores",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2006-12-21",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q9097479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6424385,
+          -33.3909444
+        ]
+      },
+      "id": "node/265684322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/267077543",
+        "name": "Dorsal",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2006-12-21",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3037252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6427404,
+          -33.3969616
+        ]
+      },
+      "id": "node/267077543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/267078399",
+        "name": "Vespucio Norte",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2006-12-21",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q5250931",
+        "wikipedia": "es:Vespucio Norte (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6463404,
+          -33.3807538
+        ]
+      },
+      "id": "node/267078399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301699361",
+        "name": "El Llano",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1978-12-21",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q549653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6493721,
+          -33.4825819
+        ]
+      },
+      "id": "node/301699361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301699379",
+        "name": "San Miguel",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1978-12-21",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q9073628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6510725,
+          -33.4887157
+        ]
+      },
+      "id": "node/301699379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301699645",
+        "name": "Lo Vial",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1978-12-21",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q507052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6530148,
+          -33.4968286
+        ]
+      },
+      "id": "node/301699645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301699773",
+        "name": "Departamental",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1978-12-21",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q5670414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6546333,
+          -33.5024398
+        ]
+      },
+      "id": "node/301699773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301699834",
+        "name": "Ciudad del Niño",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1978-12-21",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q8346536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6566453,
+          -33.5095432
+        ]
+      },
+      "id": "node/301699834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301699842",
+        "addr:city": "La Cisterna",
+        "addr:street": "Gran Avenida José Miguel Carrera",
+        "name": "Lo Ovalle",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1978-12-21",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q9023375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6588205,
+          -33.5172701
+        ]
+      },
+      "id": "node/301699842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301699913",
+        "name": "El Parrón",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2004-12-22",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q8773261",
+        "wikipedia": "es:El Parrón (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6614044,
+          -33.5264317
+        ]
+      },
+      "id": "node/301699913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301703081",
+        "name": "Santa Julia",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2006-08-16",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q9074071",
+        "wikipedia": "es:Santa Julia (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6055361,
+          -33.5311022
+        ]
+      },
+      "id": "node/301703081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301703223",
+        "name": "La Granja",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2006-08-16",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2881407",
+        "wikipedia": "es:La Granja (estación del Metro de Santiago)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.616047,
+          -33.5411298
+        ]
+      },
+      "id": "node/301703223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301703484",
+        "name": "Santa Rosa",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2006-08-16",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q9074162",
+        "wikipedia": "es:Santa Rosa (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6341267,
+          -33.5423878
+        ]
+      },
+      "id": "node/301703484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301704116",
+        "name": "San Ramón",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2006-08-16",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q9073714",
+        "wikipedia": "es:San Ramón (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6431272,
+          -33.5412286
+        ]
+      },
+      "id": "node/301704116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/318377395",
+        "addr:city": "San Bernardo",
+        "addr:housenumber": "9",
+        "addr:street": "Arturo Prat",
+        "air_conditioning": "no",
+        "baby_feeding": "no",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "San Bernardo",
+        "network": "EFE Trenes de Chile",
+        "operator": "Tren Central",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1857",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5400048",
+        "wikipedia": "es:Estación San Bernardo (Chile)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6978424,
+          -33.5950002
+        ]
+      },
+      "id": "node/318377395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/318418135",
+        "name": "Hospital",
+        "operator": "Tren Central",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7458388,
+          -33.8674378
+        ]
+      },
+      "id": "node/318418135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/318475846",
+        "addr:city": "San Bernardo",
+        "addr:street": "Avenida Portales",
+        "internet_access": "wlan",
+        "name": "Maestranza",
+        "network": "Alameda - Nos",
+        "operator": "Tren Central",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5843537",
+        "wikipedia": "es:Estación Maestranza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6970134,
+          -33.6064069
+        ]
+      },
+      "id": "node/318475846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/390998417",
+        "internet_access": "yes",
+        "name": "Manquehue",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2010-01-07",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q6751521",
+        "wikipedia": "es:Manquehue (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5697326,
+          -33.4094637
+        ]
+      },
+      "id": "node/390998417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/390998425",
+        "name": "Hernando de Magallanes",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2010-01-07",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q5742266",
+        "wikipedia": "es:Hernando de Magallanes (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5558454,
+          -33.4079352
+        ]
+      },
+      "id": "node/390998425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/390998430",
+        "name": "Los Dominicos",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2010-01-07",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q9023991",
+        "wikipedia": "es:Los Dominicos (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5449939,
+          -33.4078854
+        ]
+      },
+      "id": "node/390998430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/391007642",
+        "addr:city": "Pudahuel",
+        "addr:street": "Avenida Teniente Cruz",
+        "name": "Barrancas",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2011-02-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5719931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.739037,
+          -33.4529813
+        ]
+      },
+      "id": "node/391007642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/391008466",
+        "name": "Laguna Sur",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2011-02-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q15241275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7379067,
+          -33.4621633
+        ]
+      },
+      "id": "node/391008466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/463084774",
+        "name": "Las Parcelas",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2011-02-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5858466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7399789,
+          -33.4752719
+        ]
+      },
+      "id": "node/463084774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/463084780",
+        "name": "Monte Tabor",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2011-02-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q6904923"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7454383,
+          -33.4822861
+        ]
+      },
+      "id": "node/463084780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/463165229",
+        "name": "Las Mercedes",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q9020486",
+        "wikipedia": "es:Las Mercedes (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5774783,
+          -33.6013816
+        ]
+      },
+      "id": "node/463165229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/470378182",
+        "addr:city": "La Florida",
+        "addr:street": "Avenida Vicuña Mackenna",
+        "name": "San José de la Estrella",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2009-11-05",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2878193",
+        "wikipedia": "es:San José de la Estrella (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5865567,
+          -33.5538213
+        ]
+      },
+      "id": "node/470378182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/475497992",
+        "name": "Parque Bustamante",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1997-04-05",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q7139629",
+        "wikipedia": "es:Parque Bustamante (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6319594,
+          -33.4428037
+        ]
+      },
+      "id": "node/475497992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/475498004",
+        "name": "Gruta de Lourdes",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2010-01-12",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5491966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6910279,
+          -33.438011
+        ]
+      },
+      "id": "node/475498004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/475498009",
+        "name": "Blanqueado",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2010-01-12",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q4925213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7066515,
+          -33.4413214
+        ]
+      },
+      "id": "node/475498009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/475498017",
+        "addr:city": "Santiago, Pudahuel",
+        "addr:street": "Avenida San Pablo",
+        "internet_access": "wlan",
+        "name": "Pudahuel",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2010-01-12",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7411438,
+          -33.4448632
+        ]
+      },
+      "id": "node/475498017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/476909750",
+        "name": "Lo Prado",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2010-01-12",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q6663171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7167535,
+          -33.4434094
+        ]
+      },
+      "id": "node/476909750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/476917797",
+        "name": "Santiago Bueras",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2011-02-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q9074235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7574349,
+          -33.4962414
+        ]
+      },
+      "id": "node/476917797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/477827069",
+        "name": "Santa Ana",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1987-09-15",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q4209989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6598961,
+          -33.4382499
+        ]
+      },
+      "id": "node/477827069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/491641302",
+        "addr:city": "Puente Alto",
+        "addr:street": "Avenida Concha y Toro",
+        "name": "Plaza de Puente Alto",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q9060941",
+        "wikipedia": "es:Plaza de Puente Alto (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5758419,
+          -33.6095235
+        ]
+      },
+      "id": "node/491641302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/520459156",
+        "name": "Salvador",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1977-03-31",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q7406479",
+        "wikipedia": "es:Salvador (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6260885,
+          -33.4327195
+        ]
+      },
+      "id": "node/520459156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/549216801",
+        "name": "Del Sol",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2011-02-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5253000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7531153,
+          -33.4902363
+        ]
+      },
+      "id": "node/549216801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/573732528",
+        "addr:city": "Providencia",
+        "addr:street": "Avenida Pedro Bannen",
+        "air_conditioning": "no",
+        "baby_feeding": "no",
+        "ele": "818",
+        "funicular": "yes",
+        "internet_access": "wlan",
+        "name": "Cumbre",
+        "network": "Funicular de Santiago",
+        "operator": "Turistik",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1925-04-25",
+        "station": "funicular",
+        "wheelchair": "no",
+        "wikidata": "Q6437790",
+        "wikipedia": "es:Funicular de Santiago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6335106,
+          -33.4265415
+        ]
+      },
+      "id": "node/573732528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/575514909",
+        "addr:city": "Providencia",
+        "addr:street": "Alberto Mackenna",
+        "air_conditioning": "no",
+        "baby_feeding": "no",
+        "ele": "600",
+        "funicular": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Pío Nono",
+        "network": "Funicular de Santiago",
+        "operator": "Turistik",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1925-04-25",
+        "station": "funicular",
+        "wheelchair": "yes",
+        "wikidata": "Q6437790",
+        "wikipedia": "es:Funicular de Santiago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6358689,
+          -33.4300645
+        ]
+      },
+      "id": "node/575514909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/601268662",
+        "name": "Presidente Pedro Aguirre Cerda",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "phone": "Call Center: 600 600 9292. Fono Corporativo: 22937 2000.",
+        "public_transport": "station",
+        "railway": "station",
+        "short_name": "Pedro Aguirre",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q5774327",
+        "wikipedia": "es:Presidente Pedro Aguirre Cerda (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6647874,
+          -33.4786906
+        ]
+      },
+      "id": "node/601268662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/601280944",
+        "addr:city": "San Miguel",
+        "addr:street": "Avenida Santa Rosa",
+        "name": "Bío Bío",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q5728779",
+        "wikipedia": "es:Bío Bío (estación del Metro de Santiago)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6421784,
+          -33.4766072
+        ]
+      },
+      "id": "node/601280944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/601294862",
+        "name": "Inés de Suárez",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q5919742",
+        "wikipedia": "es:Inés de Suárez (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6073371,
+          -33.438721
+        ]
+      },
+      "id": "node/601294862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/615092336",
+        "name": "Ñuble",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1997-04-05",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q602955",
+        "wikipedia": "es:Ñuble (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6247567,
+          -33.4673629
+        ]
+      },
+      "id": "node/615092336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/668141380",
+        "name": "San Pablo",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1975-09-15",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q5248997",
+        "wikipedia": "es:San Pablo (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7231838,
+          -33.4442061
+        ]
+      },
+      "id": "node/668141380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/835432276",
+        "addr:city": "Providencia",
+        "air_conditioning": "no",
+        "ele": "660",
+        "funicular": "yes",
+        "name": "Zoológico",
+        "network": "Funicular de Santiago",
+        "operator": "Turistik",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1925-04-25",
+        "station": "funicular",
+        "wheelchair": "yes",
+        "wikidata": "Q6437790",
+        "wikipedia": "es:Funicular de Santiago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6351214,
+          -33.4289106
+        ]
+      },
+      "id": "node/835432276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/944490419",
+        "name": "Patronato",
+        "name:ko": "파트로나토",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2004-11-08",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "wikidata": "Q7148151",
+        "wikipedia": "es:Patronato (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6471183,
+          -33.4297317
+        ]
+      },
+      "id": "node/944490419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/944490442",
+        "name": "Cerro Blanco",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2004-11-08",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q5064868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6450582,
+          -33.4227505
+        ]
+      },
+      "id": "node/944490442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/944490452",
+        "name": "Einstein",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-25",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q8772688"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6431738,
+          -33.4059459
+        ]
+      },
+      "id": "node/944490452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1157168087",
+        "name": "Baquedano",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1977-03-31",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q2883718",
+        "wikipedia": "es:Baquedano (estación del Metro de Santiago)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6334109,
+          -33.4372174
+        ]
+      },
+      "id": "node/1157168087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1363217828",
+        "name": "Monseñor Eyzaguirre",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2019-01-22",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q6022112",
+        "wikipedia": "es:Monseñor Eyzaguirre (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.613519,
+          -33.4531944
+        ]
+      },
+      "id": "node/1363217828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1894898784",
+        "name": "Chile España",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "old_name": "Plaza Armenia",
+        "opening_date": "2019-01-22",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q2841226",
+        "wikipedia": "es:Chile España (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5981422,
+          -33.4549078
+        ]
+      },
+      "id": "node/1894898784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1894900066",
+        "name": "Villa Frei",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2019-01-22",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q5805018",
+        "wikipedia": "es:Villa Frei (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5814833,
+          -33.4546697
+        ]
+      },
+      "id": "node/1894900066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2307244234",
+        "name": "Los Héroes",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "Linea 1;Linea 2",
+        "start_date": "1975-09-15",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q6682858",
+        "wikipedia": "es:Los Héroes (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6604458,
+          -33.4461853
+        ]
+      },
+      "id": "node/2307244234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2390287915",
+        "addr:city": "Quilicura",
+        "addr:street": "Avenida Américo Vespucio",
+        "check_date": "2023-09-23",
+        "name": "Los Libertadores",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2019-01-22",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q5904052",
+        "wikipedia": "es:Los Libertadores (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6919903,
+          -33.3654303
+        ]
+      },
+      "id": "node/2390287915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2776463407",
+        "name": "Cerrillos",
+        "network": "Metro de Santiago",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q5762791",
+        "wikipedia": "es:Cerrillos (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6955562,
+          -33.4834342
+        ]
+      },
+      "id": "node/2776463407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3391796062",
+        "name": "La Moneda",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1975-09-15",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q5238837",
+        "wikipedia": "es:La Moneda (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6548709,
+          -33.4448711
+        ]
+      },
+      "id": "node/3391796062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3587889955",
+        "name": "Plaza de Maipú",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2011-02-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q7203680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7573092,
+          -33.5099332
+        ]
+      },
+      "id": "node/3587889955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3670590083",
+        "name": "Lo Valledor",
+        "network": "Metro de Santiago",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q5977973",
+        "wikipedia": "es:Lo Valledor (estación del Metro de Santiago)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6809001,
+          -33.4784048
+        ]
+      },
+      "id": "node/3670590083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3932022758",
+        "addr:city": "Ñuñoa",
+        "addr:street": "Avenida Pedro de Valdivia",
+        "air_conditioning": "yes",
+        "baby_feeding": "no",
+        "check_date": "2023-10-17",
+        "name": "Estadio Nacional",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2017-11-02",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q5848265",
+        "wikimedia_commons": "File:Línea 6 Metro Santiago - Estadio Nacional 02.jpg",
+        "wikipedia": "es:Estadio Nacional (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6062176,
+          -33.4623809
+        ]
+      },
+      "id": "node/3932022758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214749442",
+        "funicular": "yes",
+        "name": "Senda 20 Sur",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4990841,
+          -33.3601962
+        ]
+      },
+      "id": "node/4214749442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214749443",
+        "funicular": "yes",
+        "name": "Los Quincheros",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5017743,
+          -33.36025
+        ]
+      },
+      "id": "node/4214749443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4519746485",
+        "name": "Neptuno",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1975-09-15",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "no",
+        "wikidata": "Q9049542",
+        "wikipedia": "es:Neptuno (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7226828,
+          -33.4515804
+        ]
+      },
+      "id": "node/4519746485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4519756994",
+        "name": "Franklin",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1978-03-31",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q5492141",
+        "wikipedia": "es:Franklin (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6494774,
+          -33.4766603
+        ]
+      },
+      "id": "node/4519756994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530413430",
+        "addr:city": "El Bosque",
+        "addr:street": "Avenida Padre Hurtado",
+        "baby_feeding": "no",
+        "check_date": "2023-12-01",
+        "level": "-2",
+        "name": "El Bosque",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "opening_date": "2023-11-20",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://www.metro.cl/nuevos-proyectos/extension-linea-2",
+        "start_date": "2023-11-27",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "website": "https://www.metro.cl/el-viaje/estaciones/?estacion=EB",
+        "wheelchair": "yes",
+        "wikidata": "Q16592265",
+        "wikimedia_commons": "File:Estación El Bosque - andenes.jpg",
+        "wikipedia": "es:El Bosque (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6669419,
+          -33.5464995
+        ]
+      },
+      "id": "node/4530413430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530419351",
+        "addr:city": "El Bosque",
+        "addr:street": "Avenida Padre Hurtado",
+        "baby_feeding": "no",
+        "check_date": "2023-12-01",
+        "level": "-2",
+        "name": "Observatorio",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "opening_date": "2023-09-20",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://www.metro.cl/nuevos-proyectos/extension-linea-2",
+        "start_date": "2023-11-27",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "yes",
+        "train": "yes",
+        "website": "https://www.metro.cl/el-viaje/estaciones/?estacion=OB",
+        "wheelchair": "yes",
+        "wikidata": "Q18603636",
+        "wikimedia_commons": "File:Estación Observatorio - andenes.jpg",
+        "wikipedia": "es:Observatorio (estación del Metro de Santiago)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6704462,
+          -33.5600128
+        ]
+      },
+      "id": "node/4530419351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530419352",
+        "addr:city": "El Bosque",
+        "addr:street": "Avenida Padre Hurtado",
+        "baby_feeding": "no",
+        "check_date": "2023-12-01",
+        "level": "-2",
+        "name": "Copa Lo Martínez",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "opening_date": "2023-11-20",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://www.metro.cl/nuevos-proyectos/extension-linea-2",
+        "start_date": "2023-11-27",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "website": "https://www.metro.cl/el-viaje/estaciones/?estacion=CM",
+        "wheelchair": "yes",
+        "wikidata": "Q18642117",
+        "wikimedia_commons": "File:Estación Copa Lo Martínez - andenes.jpg",
+        "wikipedia": "es:Copa Lo Martínez (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6735533,
+          -33.5712629
+        ]
+      },
+      "id": "node/4530419352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530419353",
+        "addr:city": "San Bernardo",
+        "addr:street": "Avenida Padre Hurtado",
+        "baby_feeding": "no",
+        "check_date": "2023-12-01",
+        "level": "-3",
+        "name": "Hospital El Pino",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://www.metro.cl/nuevos-proyectos/extension-linea-2",
+        "start_date": "2023-11-27",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "website": "https://www.metro.cl/el-viaje/estaciones/?estacion=PI",
+        "wheelchair": "yes",
+        "wikidata": "Q18603637",
+        "wikimedia_commons": "File:Estación Hospital El Pino - vista de andenes.jpg",
+        "wikipedia": "es:El Pino (estación del Metro de Santiago)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6767024,
+          -33.5824912
+        ]
+      },
+      "id": "node/4530419353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530436046",
+        "addr:city": "Quilicura",
+        "addr:street": "Avenida Manuel Antonio Matta",
+        "check_date": "2023-09-23",
+        "name": "Ferrocarril",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "opening_date": "2023",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2023-09-25",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18603641",
+        "wikimedia_commons": "Category:Ferrocarril station",
+        "wikipedia": "es:Ferrocarril (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7055375,
+          -33.3654667
+        ]
+      },
+      "id": "node/4530436046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530436047",
+        "addr:city": "Quilicura",
+        "addr:street": "Avenida Manuel Antonio Matta",
+        "check_date": "2023-09-23",
+        "name": "Lo Cruzat",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "opening_date": "2023",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2023-09-25",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18603640",
+        "wikimedia_commons": "Category:Lo Cruzat station",
+        "wikipedia": "es:Lo Cruzat (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.719772,
+          -33.3668342
+        ]
+      },
+      "id": "node/4530436047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530436048",
+        "addr:city": "Quilicura",
+        "addr:street": "Avenida Manuel Antonio Matta",
+        "baby_feeding": "no",
+        "check_date": "2023-09-23",
+        "name": "Plaza Quilicura",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "opening_date": "2023",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://www.metro.cl/el-viaje/plano-de-red",
+        "start_date": "2023-09-25",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18603639",
+        "wikimedia_commons": "Category:Plaza Quilicura station",
+        "wikipedia": "es:Plaza Quilicura (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7288942,
+          -33.3657194
+        ]
+      },
+      "id": "node/4530436048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4550281347",
+        "name": "Parque Almagro",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2019-01-22",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "no",
+        "wikidata": "Q9055773",
+        "wikipedia": "es:Parque Almagro (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6505616,
+          -33.4513929
+        ]
+      },
+      "id": "node/4550281347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4593692288",
+        "name": "San Joaquín",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1997-04-05",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "wikidata": "Q7414420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6158257,
+          -33.4993359
+        ]
+      },
+      "id": "node/4593692288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4593880289",
+        "name": "Pedro Aguirre Cerda",
+        "network": "Alameda - Nos",
+        "operator": "Tren Central",
+        "public_transport": "station",
+        "railway": "station",
+        "short_name": "P.A.C.",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5844111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6818026,
+          -33.4927335
+        ]
+      },
+      "id": "node/4593880289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4746169733",
+        "name": "Lo Valledor",
+        "network": "Alameda - Nos",
+        "operator": "Tren Central",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q15919048",
+        "wikipedia": "es:Lo Valledor (estación de Metrotren)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6806482,
+          -33.4772072
+        ]
+      },
+      "id": "node/4746169733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4746169757",
+        "name": "Lo Blanco",
+        "network": "Alameda - Nos",
+        "operator": "Tren Central",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q52159697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6982932,
+          -33.5727188
+        ]
+      },
+      "id": "node/4746169757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4747704104",
+        "name": "Nos",
+        "network": "Alameda - Nos",
+        "operator": "Tren Central",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q5390686",
+        "wikipedia": "es:Estación Nos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7046147,
+          -33.6322613
+        ]
+      },
+      "id": "node/4747704104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753977083",
+        "name": "Lo Espejo",
+        "network": "Alameda - Nos",
+        "operator": "Tren Central",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q5843392"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6858822,
+          -33.5145269
+        ]
+      },
+      "id": "node/4753977083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4756906623",
+        "addr:city": "San Bernardo",
+        "addr:street": "Avenida Portales",
+        "air_conditioning": "no",
+        "baby_feeding": "no",
+        "check_date": "2024-02-27",
+        "internet_access": "yes",
+        "name": "5 Pinos",
+        "network": "Alameda - Nos",
+        "operator": "Tren Central",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "www.efe.cl",
+        "start_date": "2017-03-17",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q54826232",
+        "wikipedia": "es:Estación 5 Pinos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7005695,
+          -33.6231565
+        ]
+      },
+      "id": "node/4756906623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4756906640",
+        "internet_access": "yes",
+        "name": "Freire",
+        "network": "Alameda - Nos",
+        "operator": "Tren Central",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q52204947",
+        "wikipedia": "es:Estación Freire (Metrotren)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6984361,
+          -33.5867127
+        ]
+      },
+      "id": "node/4756906640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4757181460",
+        "alt_name": "Estación Central de Santiago",
+        "name": "Alameda",
+        "network": "Metrotren",
+        "operator": "Tren Central",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q28163126",
+        "wikipedia": "es:Estación Central de Santiago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6790609,
+          -33.452344
+        ]
+      },
+      "id": "node/4757181460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5213447511",
+        "addr:city": "Buin",
+        "addr:housenumber": "200",
+        "addr:street": "Pasaje El Guardavías",
+        "name": "Buin",
+        "network": "Tren Rancagua-Estación Central",
+        "operator": "Tren Central",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "https://www.efe.cl/nuestros-servicios/rancagua-estacion-central/estaciones/buin/",
+        "train": "yes",
+        "wikidata": "Q5841219",
+        "wikipedia": "es:Estación Buin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7284333,
+          -33.7323649
+        ]
+      },
+      "id": "node/5213447511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5213447514",
+        "name": "Buin Zoo",
+        "old_name": "Los Guindos",
+        "operator": "Tren Central",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2002",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5841221",
+        "wikipedia": "es:Estación Buin Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7245266,
+          -33.7134462
+        ]
+      },
+      "id": "node/5213447514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5215345941",
+        "name": "Linderos",
+        "network": "Red Sur",
+        "operator": "Tren Central",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7348457,
+          -33.7634876
+        ]
+      },
+      "id": "node/5215345941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5227884071",
+        "addr:city": "Providencia",
+        "addr:street": "Avenida Nueva Providencia",
+        "check_date": "2024-02-05",
+        "name": "Los Leones",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1980-08-31",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q5397450",
+        "wikipedia": "es:Los Leones (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6085607,
+          -33.422019
+        ]
+      },
+      "id": "node/5227884071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5564321725",
+        "addr:city": "La Cisterna",
+        "name": "La Cisterna",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2004-12-22",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5250941",
+        "wikipedia": "es:La Cisterna (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6643328,
+          -33.5373498
+        ]
+      },
+      "id": "node/5564321725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6003266713",
+        "name": "Senda 9 Sur",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5003893,
+          -33.3602226
+        ]
+      },
+      "id": "node/6003266713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6228531275",
+        "name": "Matta",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2019-01-22",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q6006442",
+        "wikipedia": "es:Matta (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6430769,
+          -33.4582698
+        ]
+      },
+      "id": "node/6228531275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6228531279",
+        "name": "Hospitales",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2019-01-22",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q5903204",
+        "wikipedia": "es:Hospitales (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6564558,
+          -33.4176739
+        ]
+      },
+      "id": "node/6228531279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6228531280",
+        "name": "Plaza Chacabuco",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2019-01-22",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q6079474",
+        "wikipedia": "es:Plaza Chacabuco (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6609686,
+          -33.4067715
+        ]
+      },
+      "id": "node/6228531280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6228531283",
+        "name": "Conchalí",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2019-01-22",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q5780988",
+        "wikipedia": "es:Conchalí (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6695999,
+          -33.3978904
+        ]
+      },
+      "id": "node/6228531283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6228531486",
+        "name": "Vivaceta",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2019-01-22",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q6164154",
+        "wikipedia": "es:Vivaceta (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6796401,
+          -33.3853813
+        ]
+      },
+      "id": "node/6228531486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6228531487",
+        "name": "Cardenal Caro",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2019-01-22",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q5749048",
+        "wikipedia": "es:Cardenal Caro (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6863362,
+          -33.3732586
+        ]
+      },
+      "id": "node/6228531487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6231367141",
+        "name": "Plaza de Armas",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "platforms": "4",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2000-03-02",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q7203674",
+        "wikipedia": "es:Plaza de Armas (estación del Metro de Santiago)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6512777,
+          -33.4374154
+        ]
+      },
+      "id": "node/6231367141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6506316370",
+        "name": "Puente Cal y Canto",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "platforms": "4",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1987-09-15",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q5248987",
+        "wikipedia": "es:Puente Cal y Canto (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6530774,
+          -33.4328384
+        ]
+      },
+      "id": "node/6506316370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6506316372",
+        "name": "Universidad de Chile",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "platforms": "4",
+        "public_transport": "station",
+        "railway": "station",
+        "short_name": "U. de Chile",
+        "start_date": "1977-03-31",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q3569732",
+        "wikipedia": "es:Universidad de Chile (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6506654,
+          -33.443867
+        ]
+      },
+      "id": "node/6506316372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6506316374",
+        "name": "Irarrázaval",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "platforms": "4",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1997-04-05",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q6449255",
+        "wikipedia": "es:Irarrázaval (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6283154,
+          -33.4550535
+        ]
+      },
+      "id": "node/6506316374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6506316376",
+        "name": "Ñuñoa",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2017-11-02",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q5474916",
+        "wikipedia": "es:Ñuñoa (estación del Metro de Santiago)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.604972,
+          -33.4541894
+        ]
+      },
+      "id": "node/6506316376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6506316379",
+        "name": "Plaza Egaña",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "platforms": "4",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wikidata": "Q7203606",
+        "wikipedia": "es:Plaza Egaña (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.570823,
+          -33.4534937
+        ]
+      },
+      "id": "node/6506316379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6512675039",
+        "name": "Fernando Castillo Velasco",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2019-01-22",
+        "station": "subway",
+        "subway": "yes",
+        "website": "http://www.metrosantiago.cl",
+        "wheelchair": "yes",
+        "wikidata": "Q5970123",
+        "wikipedia": "es:Fernando Castillo Velasco (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.558107,
+          -33.4521007
+        ]
+      },
+      "id": "node/6512675039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6514737770",
+        "addr:city": "La Florida",
+        "name": "Vicente Valdés",
+        "network": "Metro de Santiago",
+        "network:wikidata": "Q913314",
+        "operator": "Metro S.A.",
+        "operator:wikidata": "Q6011991",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5249593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5967924,
+          -33.5264186
+        ]
+      },
+      "id": "node/6514737770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6514765510",
+        "name": "Vicuña Mackenna",
+        "network": "Metro de Santiago",
+        "operator": "Metro S.A.",
+        "platforms": "1",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2005-11-30",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5249667",
+        "wikipedia": "es:Vicuña Mackenna (estación)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5962095,
+          -33.5197638
+        ]
+      },
+      "id": "node/6514765510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385889045",
+        "name": "Paine",
+        "network": "MetroTren Rancagua",
+        "operator": "TrenCentral",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7436049,
+          -33.8160671
+        ]
+      },
+      "id": "node/7385889045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9791348225",
+        "name": "Tiltil",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9282252,
+          -33.0863887
+        ]
+      },
+      "id": "node/9791348225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11508745605",
+        "name": "Rungue",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8932657,
+          -33.0083014
+        ]
+      },
+      "id": "node/11508745605"
+    }
+  ]
+}
