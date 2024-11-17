@@ -1,0 +1,2345 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.7232885295238, -33.4441895493096]
+        },
+        "properties": {
+          "FID": 1,
+          "objectid": 1,
+          "id": "1",
+          "especial": "EXISTENTE INTERMODAL",
+          "estacion": "EXISTENTE",
+          "nombre": "SAN PABLO",
+          "temporal": "INTERMODAL",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.7225384535852, -33.4519325188292]
+        },
+        "properties": {
+          "FID": 2,
+          "objectid": 2,
+          "id": "2",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "NEPTUNO",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.7134030021858, -33.4578262836353]
+        },
+        "properties": {
+          "FID": 3,
+          "objectid": 3,
+          "id": "3",
+          "especial": "EXISTENTE INTERMODAL",
+          "estacion": "EXISTENTE",
+          "nombre": "PAJARITOS",
+          "temporal": "INTERMODAL",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.7064745878902, -33.4572381556193]
+        },
+        "properties": {
+          "FID": 4,
+          "objectid": 4,
+          "id": "4",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LAS REJAS",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6800734685287, -33.4403440798742]
+        },
+        "properties": {
+          "FID": 5,
+          "objectid": 5,
+          "id": "5",
+          "especial": "CONSTRUCCION INTERMODAL",
+          "estacion": "CONSTRUCCION",
+          "nombre": "QUINTA NORMAL",
+          "temporal": "INTERMODAL",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6596648150306, -33.4383757138624]
+        },
+        "properties": {
+          "FID": 6,
+          "objectid": 6,
+          "id": "6",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "SANTA ANA",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6644951422769, -33.4387791785264]
+        },
+        "properties": {
+          "FID": 7,
+          "objectid": 7,
+          "id": "7",
+          "especial": "EXSTENTE",
+          "estacion": "EXSTENTE",
+          "nombre": "RICARDO CUMMING",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 8,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.7010540388778, -33.456189321975]
+        },
+        "properties": {
+          "FID": 8,
+          "objectid": 8,
+          "id": "8",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "ECUADOR",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 9,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6922912963922, -33.4542558932224]
+        },
+        "properties": {
+          "FID": 9,
+          "objectid": 9,
+          "id": "9",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "PILA DEL GANSO",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 10,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6862764108913, -33.452604206305]
+        },
+        "properties": {
+          "FID": 10,
+          "objectid": 10,
+          "id": "10",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "UNIVERSIDAD DE SANTIAGO",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 11,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6799652274033, -33.4508943874567]
+        },
+        "properties": {
+          "FID": 11,
+          "objectid": 11,
+          "id": "11",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "ESTACION CENTRAL",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 12,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6604447474867, -33.4462814285225]
+        },
+        "properties": {
+          "FID": 12,
+          "objectid": 12,
+          "id": "12",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LOS HEROES",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 13,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6642448520769, -33.4468959493874]
+        },
+        "properties": {
+          "FID": 13,
+          "objectid": 13,
+          "id": "13",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "REPUBLICA",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 14,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6743659116455, -33.4496517732411]
+        },
+        "properties": {
+          "FID": 14,
+          "objectid": 14,
+          "id": "14",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "UNION LATINOAMERICANA",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 15,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6507579492033, -33.4375859704784]
+        },
+        "properties": {
+          "FID": 15,
+          "objectid": 15,
+          "id": "15",
+          "especial": "CONSTRUCCION INTERMODAL",
+          "estacion": "EXISTENTE",
+          "nombre": "PLAZA DE ARMAS",
+          "temporal": "INTERMODAL",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 16,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6432741403911, -33.4362986411631]
+        },
+        "properties": {
+          "FID": 16,
+          "objectid": 16,
+          "id": "16",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "BELLAS ARTES",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 17,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.633288271414, -33.4373094107511]
+        },
+        "properties": {
+          "FID": 17,
+          "objectid": 17,
+          "id": "17",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "BAQUEDANO",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 18,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6557810269516, -33.4452451580749]
+        },
+        "properties": {
+          "FID": 18,
+          "objectid": 18,
+          "id": "18",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "MONEDA",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 19,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6517220563516, -33.4442955966118]
+        },
+        "properties": {
+          "FID": 19,
+          "objectid": 19,
+          "id": "19",
+          "especial": "CONSTRUCCION INTERMODAL",
+          "estacion": "EXISTENTE",
+          "nombre": "UNIVERSIDAD DE CHILE",
+          "temporal": "INTERMODAL",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 20,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6464588815257, -33.442985195097]
+        },
+        "properties": {
+          "FID": 20,
+          "objectid": 20,
+          "id": "20",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "SANTA LUCIA",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 21,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6410296403953, -33.4407987487585]
+        },
+        "properties": {
+          "FID": 21,
+          "objectid": 21,
+          "id": "21",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "UNIVERSIDAD CATOLICA",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 22,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6532327437442, -33.4330738594289]
+        },
+        "properties": {
+          "FID": 22,
+          "objectid": 22,
+          "id": "22",
+          "especial": "EXISTENTE INTERMODAL",
+          "estacion": "EXISTENTE",
+          "nombre": "CAL Y CANTO",
+          "temporal": "INTERMODAL",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 23,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6583512922798, -33.4536553242918]
+        },
+        "properties": {
+          "FID": 23,
+          "objectid": 23,
+          "id": "23",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "TOESCA",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 24,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6564268340579, -33.4604352687099]
+        },
+        "properties": {
+          "FID": 24,
+          "objectid": 24,
+          "id": "24",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "PARQUE O'HIGGINS",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 25,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6491927538438, -33.476478030003]
+        },
+        "properties": {
+          "FID": 25,
+          "objectid": 25,
+          "id": "25",
+          "especial": "CONSTRUCCION INTERMODAL",
+          "estacion": "EXISTENTE",
+          "nombre": "FRANKLIN",
+          "temporal": "INTERMODAL",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 26,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.649724124326, -33.4819690946593]
+        },
+        "properties": {
+          "FID": 26,
+          "objectid": 26,
+          "id": "26",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "EL LLANO",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 27,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6507949817575, -33.488918548731]
+        },
+        "properties": {
+          "FID": 27,
+          "objectid": 27,
+          "id": "27",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "SAN MIGUEL",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 28,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6528271240302, -33.4964982523913]
+        },
+        "properties": {
+          "FID": 28,
+          "objectid": 28,
+          "id": "28",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LO VIAL",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 29,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6549557868557, -33.5034335286243]
+        },
+        "properties": {
+          "FID": 29,
+          "objectid": 29,
+          "id": "29",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "DEPARTAMENTAL",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 30,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6570780791716, -33.5116936917353]
+        },
+        "properties": {
+          "FID": 30,
+          "objectid": 30,
+          "id": "30",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "CIUDAD DEL NINO",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 31,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6590850657059, -33.5179859175857]
+        },
+        "properties": {
+          "FID": 31,
+          "objectid": 31,
+          "id": "31",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LO OVALLE",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 32,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6612634875271, -33.5266447641575]
+        },
+        "properties": {
+          "FID": 32,
+          "objectid": 32,
+          "id": "32",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "EL PARRON",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 33,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6641952959095, -33.537566174714]
+        },
+        "properties": {
+          "FID": 33,
+          "objectid": 33,
+          "id": "33",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LA CISTERNA",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 34,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.632197885255, -33.4413791890142]
+        },
+        "properties": {
+          "FID": 34,
+          "objectid": 34,
+          "id": "34",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "PARQUE BUSTAMANTE",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 35,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.630263920306, -33.4471521955106]
+        },
+        "properties": {
+          "FID": 35,
+          "objectid": 35,
+          "id": "35",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "SANTA ISABEL",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 36,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.629040694574, -33.4524508107646]
+        },
+        "properties": {
+          "FID": 36,
+          "objectid": 36,
+          "id": "36",
+          "especial": "CONSTRUCCION INTERMODAL",
+          "estacion": "EXISTENTE",
+          "nombre": "IRARRAZAVAL",
+          "temporal": "INTERMODAL",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 37,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6249128167889, -33.467170357441]
+        },
+        "properties": {
+          "FID": 37,
+          "objectid": 37,
+          "id": "37",
+          "especial": "CONSTRUCCION INTERMODAL",
+          "estacion": "EXISTENTE",
+          "nombre": "NUBLE",
+          "temporal": "INTERMODAL",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 38,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6224711577377, -33.4766893676758]
+        },
+        "properties": {
+          "FID": 38,
+          "objectid": 38,
+          "id": "38",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "RODRIGO DE ARAYA",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 39,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6191657711169, -33.4863019940656]
+        },
+        "properties": {
+          "FID": 39,
+          "objectid": 39,
+          "id": "39",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "CARLOS VALDOVINO",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 40,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6164085931574, -33.4961550686448]
+        },
+        "properties": {
+          "FID": 40,
+          "objectid": 40,
+          "id": "40",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "SAN JOAQUIN",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 41,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6131830231273, -33.5079730072836]
+        },
+        "properties": {
+          "FID": 41,
+          "objectid": 41,
+          "id": "41",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "PEDRERO",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 42,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6061307671229, -33.5131093364346]
+        },
+        "properties": {
+          "FID": 42,
+          "objectid": 42,
+          "id": "42",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "MIRADOR",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 43,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5987179941017, -33.5206805503697]
+        },
+        "properties": {
+          "FID": 43,
+          "objectid": 43,
+          "id": "43",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "BELLAVISTA",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 44,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6089251611236, -33.422637924811]
+        },
+        "properties": {
+          "FID": 44,
+          "objectid": 44,
+          "id": "44",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LOS LEONES",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 45,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6138003736448, -33.4256626931254]
+        },
+        "properties": {
+          "FID": 45,
+          "objectid": 45,
+          "id": "45",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "PEDRO DE VALDIVIA",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 46,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6016641801424, -33.4184862299736]
+        },
+        "properties": {
+          "FID": 46,
+          "objectid": 46,
+          "id": "46",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "TOBALABA",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 47,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6261997001865, -33.4341440809603]
+        },
+        "properties": {
+          "FID": 47,
+          "objectid": 47,
+          "id": "47",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "SALVADOR",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 48,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6193876026189, -33.4289742002976]
+        },
+        "properties": {
+          "FID": 48,
+          "objectid": 48,
+          "id": "48",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "MANUEL MONTT",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 49,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5896808968626, -33.4153595288739]
+        },
+        "properties": {
+          "FID": 49,
+          "objectid": 49,
+          "id": "49",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "ALCANTARA",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 50,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5955702059519, -33.4165776760031]
+        },
+        "properties": {
+          "FID": 50,
+          "objectid": 50,
+          "id": "50",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "EL GOLF",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 51,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5843110380417, -33.4141838217081]
+        },
+        "properties": {
+          "FID": 51,
+          "objectid": 51,
+          "id": "51",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "ESCUELA MILITAR",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 52,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5965021479863, -33.5264955551145]
+        },
+        "properties": {
+          "FID": 52,
+          "objectid": 52,
+          "id": "52",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "VICENTE VALDES",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 53,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5928370493258, -33.5355626060666]
+        },
+        "properties": {
+          "FID": 53,
+          "objectid": 53,
+          "id": "53",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "ROJAS MAGALLANES",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 54,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5876809438422, -33.547121952292]
+        },
+        "properties": {
+          "FID": 54,
+          "objectid": 54,
+          "id": "54",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "TRINIDAD",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 55,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.584444276657, -33.5645917878309]
+        },
+        "properties": {
+          "FID": 55,
+          "objectid": 55,
+          "id": "55",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LOS QUILLAYES",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 56,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5819455079579, -33.5760965125451]
+        },
+        "properties": {
+          "FID": 56,
+          "objectid": 56,
+          "id": "56",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "SOTERO DEL RIO",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 57,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5837043561629, -33.5689523531882]
+        },
+        "properties": {
+          "FID": 57,
+          "objectid": 57,
+          "id": "57",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "ELISA CORREA",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 58,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5788154697052, -33.5941574600372]
+        },
+        "properties": {
+          "FID": 58,
+          "objectid": 58,
+          "id": "58",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LAS MERCEDES",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 59,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5802625925502, -33.5858551386495]
+        },
+        "properties": {
+          "FID": 59,
+          "objectid": 59,
+          "id": "59",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "PROTECTORA DE LA INFANCIA",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 60,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5758486831562, -33.6093702375755]
+        },
+        "properties": {
+          "FID": 60,
+          "objectid": 60,
+          "id": "60",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "PLAZA PUENTE ALTO",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 61,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.584828625266, -33.4317175526537]
+        },
+        "properties": {
+          "FID": 61,
+          "objectid": 61,
+          "id": "61",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "BILBAO",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 62,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5912090291461, -33.426529571086]
+        },
+        "properties": {
+          "FID": 62,
+          "objectid": 62,
+          "id": "62",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "COLON",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 63,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5735397454335, -33.4381032003105]
+        },
+        "properties": {
+          "FID": 63,
+          "objectid": 63,
+          "id": "63",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "PRINCIPE DE GALES",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 64,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.571714704645, -33.4480246786515]
+        },
+        "properties": {
+          "FID": 64,
+          "objectid": 64,
+          "id": "64",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "SIMON BOLIVAR",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 65,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5708091454529, -33.4534819267586]
+        },
+        "properties": {
+          "FID": 65,
+          "objectid": 65,
+          "id": "65",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "PLAZA EGAÑA",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 66,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5722034849363, -33.4590477298684]
+        },
+        "properties": {
+          "FID": 66,
+          "objectid": 66,
+          "id": "66",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LOS ORIENTALES",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 67,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5763196654363, -33.4689061864731]
+        },
+        "properties": {
+          "FID": 67,
+          "objectid": 67,
+          "id": "67",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "GRECIA",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 68,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5792275378416, -33.4814045734737]
+        },
+        "properties": {
+          "FID": 68,
+          "objectid": 68,
+          "id": "68",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LOS PRESIDENTES",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 69,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5801337069808, -33.4877700468363]
+        },
+        "properties": {
+          "FID": 69,
+          "objectid": 69,
+          "id": "69",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "QUILIN",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 70,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5871172199117, -33.5002880403036]
+        },
+        "properties": {
+          "FID": 70,
+          "objectid": 70,
+          "id": "70",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LAS TORRES",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 71,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5898862908332, -33.50788092466]
+        },
+        "properties": {
+          "FID": 71,
+          "objectid": 71,
+          "id": "71",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "MACUL",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 72,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5975137809302, -33.5218435457784]
+        },
+        "properties": {
+          "FID": 72,
+          "objectid": 72,
+          "id": "72",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "VICUNA MACKENNA",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 73,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6054423508582, -33.5311793436307]
+        },
+        "properties": {
+          "FID": 73,
+          "objectid": 73,
+          "id": "73",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "SANTA JULIA",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4A"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 74,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6099648126666, -33.5376493232418]
+        },
+        "properties": {
+          "FID": 74,
+          "objectid": 74,
+          "id": "74",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LA GRANJA",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4A"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 75,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6341413946416, -33.5425154965582]
+        },
+        "properties": {
+          "FID": 75,
+          "objectid": 75,
+          "id": "75",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "SANTA ROSA",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4A"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 76,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6433162307882, -33.5412046621782]
+        },
+        "properties": {
+          "FID": 76,
+          "objectid": 76,
+          "id": "76",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "SAN RAMON",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 4A"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 77,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6470439411899, -33.4296626786608]
+        },
+        "properties": {
+          "FID": 77,
+          "objectid": 77,
+          "id": "77",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "PATRONATO",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 78,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6449483392731, -33.4221817256352]
+        },
+        "properties": {
+          "FID": 78,
+          "objectid": 78,
+          "id": "78",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "CERRO BLANCO",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 79,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6559421829235, -33.4699752072452]
+        },
+        "properties": {
+          "FID": 79,
+          "objectid": 79,
+          "id": "79",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "RONDIZZONI",
+          "temporal": "",
+          "f1": 1,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 80,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6433733542498, -33.414038116351]
+        },
+        "properties": {
+          "FID": 80,
+          "objectid": 80,
+          "id": "80",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "CEMENTERIOS",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 81,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6430269260008, -33.4066024836564]
+        },
+        "properties": {
+          "FID": 81,
+          "objectid": 81,
+          "id": "81",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "EINSTEN",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 82,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6426776602094, -33.3970181272519]
+        },
+        "properties": {
+          "FID": 82,
+          "objectid": 82,
+          "id": "82",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "DORSAL",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 83,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6424092101355, -33.3909810721993]
+        },
+        "properties": {
+          "FID": 83,
+          "objectid": 83,
+          "id": "83",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "ZAPADORES",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 84,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.646513926246, -33.3801967585275]
+        },
+        "properties": {
+          "FID": 84,
+          "objectid": 84,
+          "id": "84",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "VESPUCIO",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 85,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5568743241157, -33.4077535826152]
+        },
+        "properties": {
+          "FID": 85,
+          "objectid": 0,
+          "id": "85",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "HERNANDO DE MAGALLANES",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 86,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5684291380973, -33.4091408674]
+        },
+        "properties": {
+          "FID": 86,
+          "objectid": 0,
+          "id": "86",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "MANQUEHUE",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 87,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5448498352736, -33.4078940260839]
+        },
+        "properties": {
+          "FID": 87,
+          "objectid": 0,
+          "id": "87",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LOS DOMINICOS",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 88,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.7571658502422, -33.5104905971795]
+        },
+        "properties": {
+          "FID": 88,
+          "objectid": 0,
+          "id": "88",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "PLAZA DE MAIPU",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 89,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.689431672253, -33.3665086683468]
+        },
+        "properties": {
+          "FID": 89,
+          "objectid": 0,
+          "id": "89",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "HUECHURABA",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 90,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6793259801501, -33.3859269188792]
+        },
+        "properties": {
+          "FID": 90,
+          "objectid": 0,
+          "id": "90",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "VIVACETA",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 91,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6864304359522, -33.3736108021268]
+        },
+        "properties": {
+          "FID": 91,
+          "objectid": 0,
+          "id": "91",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "CARDENAL CARO",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 92,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6697728726656, -33.3979239108515]
+        },
+        "properties": {
+          "FID": 92,
+          "objectid": 0,
+          "id": "92",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "CONCHALI",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 93,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.661120162633, -33.4065172626861]
+        },
+        "properties": {
+          "FID": 93,
+          "objectid": 0,
+          "id": "93",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "PLAZA CHACABUCO",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 94,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6562801299892, -33.4177736751268]
+        },
+        "properties": {
+          "FID": 94,
+          "objectid": 0,
+          "id": "94",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "HOSPITALES",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 95,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6505696483649, -33.4518486644689]
+        },
+        "properties": {
+          "FID": 95,
+          "objectid": 0,
+          "id": "95",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "PARQUE ALMAGRO",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 96,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6433445568871, -33.4583566344736]
+        },
+        "properties": {
+          "FID": 96,
+          "objectid": 0,
+          "id": "96",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "MATTA",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 97,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5983597831629, -33.4547874399297]
+        },
+        "properties": {
+          "FID": 97,
+          "objectid": 0,
+          "id": "97",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "CHILE ESPAÑA",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 98,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6136731124783, -33.4532453094204]
+        },
+        "properties": {
+          "FID": 98,
+          "objectid": 0,
+          "id": "98",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "MONSEÑOR EYZAGUIRRE",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 99,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5801876056948, -33.4547498770132]
+        },
+        "properties": {
+          "FID": 99,
+          "objectid": 0,
+          "id": "99",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "DIAGONAL ORIENTE",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 100,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6050080334914, -33.4541694552221]
+        },
+        "properties": {
+          "FID": 100,
+          "objectid": 0,
+          "id": "100",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "ÑUÑOA",
+          "temporal": "INTERMODAL",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 101,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.5589577225685, -33.4521869147703]
+        },
+        "properties": {
+          "FID": 101,
+          "objectid": 0,
+          "id": "101",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "LARRAIN",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 102,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6075603009336, -33.438561733474]
+        },
+        "properties": {
+          "FID": 102,
+          "objectid": 0,
+          "id": "102",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "INES DE SUAREZ",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 6"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 103,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6063873907723, -33.4624574528369]
+        },
+        "properties": {
+          "FID": 103,
+          "objectid": 0,
+          "id": "103",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "ESTADIO NACIONAL",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 6"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 104,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6421861116224, -33.4763562279478]
+        },
+        "properties": {
+          "FID": 104,
+          "objectid": 0,
+          "id": "104",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "BIO BIO",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 6"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 105,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6651150536021, -33.4763962382219]
+        },
+        "properties": {
+          "FID": 105,
+          "objectid": 0,
+          "id": "105",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "CLUB HÍPICO",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 6"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 106,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6802960685304, -33.4762926087901]
+        },
+        "properties": {
+          "FID": 106,
+          "objectid": 0,
+          "id": "106",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "LO VALLEDOR",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 6"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 107,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.7391762010878, -33.4524414479452]
+        },
+        "properties": {
+          "FID": 107,
+          "objectid": 0,
+          "id": "107",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "BARRANCAS",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 108,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.737813557863, -33.4628175223006]
+        },
+        "properties": {
+          "FID": 108,
+          "objectid": 0,
+          "id": "108",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LAGUNA SUR",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 109,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.7397283084099, -33.4753144125047]
+        },
+        "properties": {
+          "FID": 109,
+          "objectid": 0,
+          "id": "109",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LAS PARCELAS",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 110,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.7451309299808, -33.4821387353957]
+        },
+        "properties": {
+          "FID": 110,
+          "objectid": 0,
+          "id": "110",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "MONTE TABOR",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 111,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.7520933538652, -33.4889479412597]
+        },
+        "properties": {
+          "FID": 111,
+          "objectid": 0,
+          "id": "111",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "DEL SOL",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 112,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.7573803172831, -33.4963897197621]
+        },
+        "properties": {
+          "FID": 112,
+          "objectid": 0,
+          "id": "112",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "SANTIAGO BUERAS",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 113,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.7157402734013, -33.4431112566683]
+        },
+        "properties": {
+          "FID": 113,
+          "objectid": 0,
+          "id": "113",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "LO PRADO",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 114,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.6911874889366, -33.4380879348105]
+        },
+        "properties": {
+          "FID": 114,
+          "objectid": 0,
+          "id": "114",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "GRUTA DE LOURDES",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 115,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.7071813991128, -33.4414418276839]
+        },
+        "properties": {
+          "FID": 115,
+          "objectid": 0,
+          "id": "115",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "BLANQUEADO",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 116,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.7406491012186, -33.4447327949532]
+        },
+        "properties": {
+          "FID": 116,
+          "objectid": 0,
+          "id": "116",
+          "especial": "EXISTENTE",
+          "estacion": "EXISTENTE",
+          "nombre": "PUDAHUEL",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 117,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-70.695292499727, -33.4833088251866]
+        },
+        "properties": {
+          "FID": 117,
+          "objectid": 0,
+          "id": "117",
+          "especial": "PROYECTADO",
+          "estacion": "PROYECTADO",
+          "nombre": "CERRILLOS",
+          "temporal": "",
+          "f1": 0,
+          "tipo": "ESTACION METRO",
+          "linea": "Linea 6"
+        }
+      }
+    ]
+  }

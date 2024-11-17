@@ -1,0 +1,6037 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-11-10T14:35:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253355794",
+        "name": "Manuel Rodríguez",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6584261,
+          -33.4535728
+        ]
+      },
+      "id": "node/253355794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/260754259",
+        "name": "Avenida Apoquindo Norte",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5829374,
+          -33.4134741
+        ]
+      },
+      "id": "node/260754259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/260754425",
+        "name": "Avenida Apoquindo Sur / Félix de Amesti",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5827805,
+          -33.4137216
+        ]
+      },
+      "id": "node/260754425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/260754974",
+        "level": "0",
+        "name": "Luis Thayer Ojeda Sur",
+        "railway": "subway_entrance",
+        "ref": "D",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6027646,
+          -33.4188867
+        ]
+      },
+      "id": "node/260754974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/260755008",
+        "level": "0",
+        "name": "Tobalaba",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6013677,
+          -33.4185475
+        ]
+      },
+      "id": "node/260755008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282395655",
+        "name": "Avenida Apoquindo Sur",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5963444,
+          -33.4168695
+        ]
+      },
+      "id": "node/282395655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282396059",
+        "name": "Avenida Apoquindo Norte",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58972,
+          -33.4152322
+        ]
+      },
+      "id": "node/282396059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301706836",
+        "name": "Avenida Apoquindo Sur",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5896947,
+          -33.4156021
+        ]
+      },
+      "id": "node/301706836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301706936",
+        "name": "Sudeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6085275,
+          -33.4222563
+        ]
+      },
+      "id": "node/301706936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301707125",
+        "name": "Noreste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6196937,
+          -33.4284837
+        ]
+      },
+      "id": "node/301707125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301707134",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6193593,
+          -33.4288814
+        ]
+      },
+      "id": "node/301707134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301707463",
+        "name": "Avenida Libertador Bernardo O'Higgins Sur",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6396242,
+          -33.4399202
+        ]
+      },
+      "id": "node/301707463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301707479",
+        "name": "Avenida Libertador Bernardo O'Higgins Norte",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6403674,
+          -33.4397597
+        ]
+      },
+      "id": "node/301707479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/448090334",
+        "name": "Avenida Nueva Providencia Sur",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6084037,
+          -33.4220718
+        ]
+      },
+      "id": "node/448090334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/463165225",
+        "highway": "traffic_signals",
+        "name": "Av. Concha y Toro",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5794945,
+          -33.5892598
+        ]
+      },
+      "id": "node/463165225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/473167841",
+        "name": "Av. Concha y Toro",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5771245,
+          -33.6013522
+        ]
+      },
+      "id": "node/473167841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/479374814",
+        "layer": "2",
+        "name": "Ramón Carnicer",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6342295,
+          -33.4375861
+        ]
+      },
+      "id": "node/479374814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/486315253",
+        "name": "Ramón Carnicer",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6317819,
+          -33.4429573
+        ]
+      },
+      "id": "node/486315253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/567264792",
+        "name": "Marchant Pereira",
+        "railway": "subway_entrance",
+        "ref": "D",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6138377,
+          -33.4256301
+        ]
+      },
+      "id": "node/567264792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/567264793",
+        "name": "La Concepción",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.614197,
+          -33.425007
+        ]
+      },
+      "id": "node/567264793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/598145656",
+        "name": "Avenida Manquehue Sur",
+        "railway": "subway_entrance",
+        "ref": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5680632,
+          -33.409186
+        ]
+      },
+      "id": "node/598145656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/601280943",
+        "name": "Placer",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6494026,
+          -33.475912
+        ]
+      },
+      "id": "node/601280943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616736320",
+        "name": "Avenida Apoquindo",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5561393,
+          -33.4082399
+        ]
+      },
+      "id": "node/616736320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/619984608",
+        "name": "Noroeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6558227,
+          -33.4447589
+        ]
+      },
+      "id": "node/619984608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/912515084",
+        "name": "Los Sargazos",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5691627,
+          -33.4095332
+        ]
+      },
+      "id": "node/912515084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/912515085",
+        "name": "Rosario Sur",
+        "railway": "subway_entrance",
+        "ref": "F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5699427,
+          -33.40969
+        ]
+      },
+      "id": "node/912515085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/912515087",
+        "name": "Rosario Norte",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5701174,
+          -33.4093772
+        ]
+      },
+      "id": "node/912515087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/912515090",
+        "name": "Avenida Manquehue Norte",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5681556,
+          -33.4088364
+        ]
+      },
+      "id": "node/912515090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/931383697",
+        "check_date:wheelchair": "2023-12-20",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5449243,
+          -33.4077331
+        ]
+      },
+      "id": "node/931383697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/931383700",
+        "check_date:wheelchair": "2023-12-20",
+        "name": "Sudeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5448868,
+          -33.4080236
+        ]
+      },
+      "id": "node/931383700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/939206062",
+        "name": "Av. Irarrázaval Oriente",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6285103,
+          -33.4526972
+        ]
+      },
+      "id": "node/939206062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/939206066",
+        "name": "Pedro de Oña",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6288892,
+          -33.4536028
+        ]
+      },
+      "id": "node/939206066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/939230033",
+        "name": "General Mackenna Poniente",
+        "railway": "subway_entrance",
+        "ref": "F",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6534286,
+          -33.433185
+        ]
+      },
+      "id": "node/939230033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/981431248",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5849845,
+          -33.4313288
+        ]
+      },
+      "id": "node/981431248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1059798591",
+        "highway": "elevator",
+        "name": "Sudeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5727283,
+          -33.4391204
+        ]
+      },
+      "id": "node/1059798591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1059798593",
+        "name": "Noreste",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5728416,
+          -33.4385814
+        ]
+      },
+      "id": "node/1059798593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1113614812",
+        "name": "Avenida Ossa Oriente",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5715832,
+          -33.4458126
+        ]
+      },
+      "id": "node/1113614812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1113614820",
+        "name": "Poniente",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5711377,
+          -33.4537653
+        ]
+      },
+      "id": "node/1113614820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1157166193",
+        "name": "Monjitas",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6441804,
+          -33.4364137
+        ]
+      },
+      "id": "node/1157166193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1180071458",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6860853,
+          -33.4530412
+        ]
+      },
+      "id": "node/1180071458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1180071461",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6866706,
+          -33.4526827
+        ]
+      },
+      "id": "node/1180071461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1259065987",
+        "name": "Puente",
+        "railway": "subway_entrance",
+        "ref": "D",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6519437,
+          -33.4333408
+        ]
+      },
+      "id": "node/1259065987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1292345636",
+        "layer": "2",
+        "name": "Av. Vicuña Mackenna",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6344598,
+          -33.4376246
+        ]
+      },
+      "id": "node/1292345636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1493425378",
+        "name": "Avenida Apoquindo Norte",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5960673,
+          -33.4164952
+        ]
+      },
+      "id": "node/1493425378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700153685",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6157977,
+          -33.499111
+        ]
+      },
+      "id": "node/1700153685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1703795242",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5715826,
+          -33.4530165
+        ]
+      },
+      "id": "node/1703795242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1703795248",
+        "name": "Oriente",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5703237,
+          -33.453285
+        ]
+      },
+      "id": "node/1703795248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709275386",
+        "name": "Alcalde Eduardo Castillo Velasco",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5741344,
+          -33.4621482
+        ]
+      },
+      "id": "node/1709275386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898671213",
+        "name": "Plaza de Armas Oriente",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6500019,
+          -33.4375558
+        ]
+      },
+      "id": "node/1898671213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1973281832",
+        "name": "Nuncio Monseñor Sótero Sanz",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6140082,
+          -33.424833
+        ]
+      },
+      "id": "node/1973281832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1973281833",
+        "name": "Sudeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6138169,
+          -33.4248696
+        ]
+      },
+      "id": "node/1973281833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1973281834",
+        "name": "Avenida Pedro de Valdivia",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6134225,
+          -33.4254565
+        ]
+      },
+      "id": "node/1973281834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2080085395",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5757073,
+          -33.6097442
+        ]
+      },
+      "id": "node/2080085395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2080085396",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.575783,
+          -33.6093705
+        ]
+      },
+      "id": "node/2080085396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2080085412",
+        "name": "Sergio Ronal Gutierrez",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5760927,
+          -33.6092168
+        ]
+      },
+      "id": "node/2080085412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2080085413",
+        "name": "José Manuel Balmaceda",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5749343,
+          -33.6094832
+        ]
+      },
+      "id": "node/2080085413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2088612701",
+        "name": "Av. Recoleta",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6425943,
+          -33.3914492
+        ]
+      },
+      "id": "node/2088612701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2088612702",
+        "name": "Av. Recoleta",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6426359,
+          -33.3911401
+        ]
+      },
+      "id": "node/2088612702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2262212685",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5777144,
+          -33.6014627
+        ]
+      },
+      "id": "node/2262212685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2305969126",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6498051,
+          -33.4823282
+        ]
+      },
+      "id": "node/2305969126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2305969130",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6498784,
+          -33.4826358
+        ]
+      },
+      "id": "node/2305969130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2305969132",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6489793,
+          -33.4828125
+        ]
+      },
+      "id": "node/2305969132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2307244224",
+        "name": "Avenida Libertador Bernardo O'Higgins",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6602968,
+          -33.446164
+        ]
+      },
+      "id": "node/2307244224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2598380077",
+        "name": "Avenida Nueva Providencia Norte",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6087286,
+          -33.4219925
+        ]
+      },
+      "id": "node/2598380077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2838751834",
+        "name": "Plaza de la Cultura",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6533665,
+          -33.4325254
+        ]
+      },
+      "id": "node/2838751834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2838751840",
+        "name": "General Mackenna Oriente",
+        "railway": "subway_entrance",
+        "ref": "E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6530274,
+          -33.4331499
+        ]
+      },
+      "id": "node/2838751840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2970964694",
+        "name": "Plaza de Armas Poniente",
+        "railway": "subway_entrance",
+        "ref": "D",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6510036,
+          -33.4382138
+        ]
+      },
+      "id": "node/2970964694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3043613632",
+        "name": "Ejército Libertador",
+        "railway": "subway_entrance",
+        "ref": "E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6616632,
+          -33.4468103
+        ]
+      },
+      "id": "node/3043613632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3043620833",
+        "name": "Manuel Rodríguez Sur",
+        "railway": "subway_entrance",
+        "ref": "D",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6612301,
+          -33.4467552
+        ]
+      },
+      "id": "node/3043620833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3043620834",
+        "name": "Almirante Barroso",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6616654,
+          -33.4460943
+        ]
+      },
+      "id": "node/3043620834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3043620835",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6548254,
+          -33.4452662
+        ]
+      },
+      "id": "node/3043620835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3043620836",
+        "name": "Suroeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6556558,
+          -33.4454463
+        ]
+      },
+      "id": "node/3043620836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3043620837",
+        "name": "Noreste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.654771,
+          -33.4444686
+        ]
+      },
+      "id": "node/3043620837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3043620838",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6550758,
+          -33.4445384
+        ]
+      },
+      "id": "node/3043620838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3043620839",
+        "name": "Sudeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6545613,
+          -33.4452012
+        ]
+      },
+      "id": "node/3043620839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3043620840",
+        "name": "Manuel Rodríguez Norte",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6611253,
+          -33.4459673
+        ]
+      },
+      "id": "node/3043620840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3471674285",
+        "name": "Santos Dumont",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6451236,
+          -33.4223999
+        ]
+      },
+      "id": "node/3471674285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3903129823",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6921598,
+          -33.4546205
+        ]
+      },
+      "id": "node/3903129823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4255117757",
+        "name": "Esperanza",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6736188,
+          -33.4491309
+        ]
+      },
+      "id": "node/4255117757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4255117758",
+        "name": "Libertad",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6734138,
+          -33.4491135
+        ]
+      },
+      "id": "node/4255117758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4255117759",
+        "name": "Sudeste",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6732129,
+          -33.4495791
+        ]
+      },
+      "id": "node/4255117759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4255117760",
+        "name": "Unión Latinoamericana",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6734102,
+          -33.4496367
+        ]
+      },
+      "id": "node/4255117760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4258716534",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.645117,
+          -33.4423675
+        ]
+      },
+      "id": "node/4258716534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4258716535",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6448675,
+          -33.4427438
+        ]
+      },
+      "id": "node/4258716535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4258769704",
+        "name": "Suroeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5455466,
+          -33.4081273
+        ]
+      },
+      "id": "node/4258769704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4258769705",
+        "elevator": "yes",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5443892,
+          -33.4077372
+        ]
+      },
+      "id": "node/4258769705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4258841562",
+        "elevator": "yes",
+        "name": "Avenida Apoquindo Sur",
+        "railway": "subway_entrance",
+        "ref": "E",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5685463,
+          -33.4093166
+        ]
+      },
+      "id": "node/4258841562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4258853800",
+        "elevator": "yes",
+        "name": "O'Connell",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.568769,
+          -33.4089882
+        ]
+      },
+      "id": "node/4258853800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259250232",
+        "elevator": "yes",
+        "level": "0",
+        "name": "Avenida Nueva Providencia",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6018825,
+          -33.41809
+        ]
+      },
+      "id": "node/4259250232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259331575",
+        "fixme": "No es entrada del metro propiamente tal, es una galería (no recuerdo el nombre) que conecta con el edificio Coyancura y de esa forma al metro",
+        "name": "Av. Ricardo Lyon",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6094874,
+          -33.4225292
+        ]
+      },
+      "id": "node/4259331575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259398522",
+        "name": "Noroeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.619872,
+          -33.4285488
+        ]
+      },
+      "id": "node/4259398522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259398523",
+        "name": "Av Providencia",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6196134,
+          -33.4287669
+        ]
+      },
+      "id": "node/4259398523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259398524",
+        "elevator": "yes",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.619412,
+          -33.4289048
+        ]
+      },
+      "id": "node/4259398524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259439151",
+        "name": "Avenida Salvador",
+        "railway": "subway_entrance",
+        "ref": "E",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6259246,
+          -33.4333125
+        ]
+      },
+      "id": "node/4259439151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259439152",
+        "name": "Eliodoro Yañez",
+        "railway": "subway_entrance",
+        "ref": "D",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6257399,
+          -33.4331409
+        ]
+      },
+      "id": "node/4259439152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259439153",
+        "elevator": "yes",
+        "name": "Avenida Providencia Norte",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6260365,
+          -33.4326792
+        ]
+      },
+      "id": "node/4259439153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259439154",
+        "name": "Puente del Arzobispo",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6260292,
+          -33.4325585
+        ]
+      },
+      "id": "node/4259439154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259439155",
+        "name": "Avenida Andrés Bello",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6261804,
+          -33.4325754
+        ]
+      },
+      "id": "node/4259439155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259466810",
+        "name": "Av. General Bustamante",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6333116,
+          -33.4372808
+        ]
+      },
+      "id": "node/4259466810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259498951",
+        "elevator": "yes",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6396545,
+          -33.4399562
+        ]
+      },
+      "id": "node/4259498951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259610889",
+        "elevator": "yes",
+        "name": "Ejército",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6614255,
+          -33.4468143
+        ]
+      },
+      "id": "node/4259610889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4260814743",
+        "name": "Echaurren",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6664147,
+          -33.4478369
+        ]
+      },
+      "id": "node/4260814743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4260837293",
+        "name": "Avenida Ricardo Cumming",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6670334,
+          -33.4473884
+        ]
+      },
+      "id": "node/4260837293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4260872895",
+        "name": "República",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6668371,
+          -33.4479206
+        ]
+      },
+      "id": "node/4260872895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4260951011",
+        "name": "Suroeste",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6792914,
+          -33.4512064
+        ]
+      },
+      "id": "node/4260951011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4260979196",
+        "name": "Sudeste",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6787692,
+          -33.4512294
+        ]
+      },
+      "id": "node/4260979196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4260987702",
+        "name": "Interior",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6789471,
+          -33.4513848
+        ]
+      },
+      "id": "node/4260987702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261020964",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6924371,
+          -33.4539232
+        ]
+      },
+      "id": "node/4261020964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261057205",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6996659,
+          -33.456107
+        ]
+      },
+      "id": "node/4261057205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261057206",
+        "name": "Noreste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6996874,
+          -33.4557086
+        ]
+      },
+      "id": "node/4261057206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261057207",
+        "name": "Noroeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6997639,
+          -33.4557299
+        ]
+      },
+      "id": "node/4261057207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261064906",
+        "elevator": "yes",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6998749,
+          -33.4561445
+        ]
+      },
+      "id": "node/4261064906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261090413",
+        "elevator": "yes",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7066623,
+          -33.4572317
+        ]
+      },
+      "id": "node/4261090413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261090414",
+        "name": "Noroeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7067173,
+          -33.4572295
+        ]
+      },
+      "id": "node/4261090414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261090415",
+        "name": "Noreste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7066113,
+          -33.4571959
+        ]
+      },
+      "id": "node/4261090415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261093739",
+        "name": "Sudeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7064008,
+          -33.4577106
+        ]
+      },
+      "id": "node/4261093739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261097390",
+        "name": "Suroeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7066684,
+          -33.4577753
+        ]
+      },
+      "id": "node/4261097390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261107658",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7164683,
+          -33.4574887
+        ]
+      },
+      "id": "node/4261107658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261114545",
+        "name": "Noroeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7162108,
+          -33.4573611
+        ]
+      },
+      "id": "node/4261114545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261137966",
+        "name": "Noreste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.715323,
+          -33.4573835
+        ]
+      },
+      "id": "node/4261137966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261137967",
+        "check_date:wheelchair": "2024-07-05",
+        "elevator": "yes",
+        "name": "Interior",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7160177,
+          -33.4573141
+        ]
+      },
+      "id": "node/4261137967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261149086",
+        "name": "Oeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7228962,
+          -33.4515572
+        ]
+      },
+      "id": "node/4261149086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261149087",
+        "name": "Este",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7224467,
+          -33.4515511
+        ]
+      },
+      "id": "node/4261149087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261163379",
+        "name": "Av. Neptuno Poniente",
+        "railway": "subway_entrance",
+        "ref": "D",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7232748,
+          -33.4453219
+        ]
+      },
+      "id": "node/4261163379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261163380",
+        "name": "Av. Neptuno Oriente",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7229783,
+          -33.4453115
+        ]
+      },
+      "id": "node/4261163380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261496920",
+        "elevator": "yes",
+        "name": "Av.Concha y Toro",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5797981,
+          -33.5893361
+        ]
+      },
+      "id": "node/4261496920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261513164",
+        "name": "Av. Concha y Toro",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5820277,
+          -33.5767237
+        ]
+      },
+      "id": "node/4261513164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261513165",
+        "elevator": "yes",
+        "name": "Av. Concha y Toro",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5820036,
+          -33.5766522
+        ]
+      },
+      "id": "node/4261513165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261528973",
+        "name": "Elisa Correa",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5839245,
+          -33.5688486
+        ]
+      },
+      "id": "node/4261528973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261528974",
+        "name": "Av. Concha y Toro",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5835058,
+          -33.5689602
+        ]
+      },
+      "id": "node/4261528974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261528975",
+        "elevator": "yes",
+        "name": "Elisa Correa",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5839176,
+          -33.5689415
+        ]
+      },
+      "id": "node/4261528975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261568135",
+        "elevator": "yes",
+        "name": "Av. Vicuña",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5853889,
+          -33.5610266
+        ]
+      },
+      "id": "node/4261568135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261568136",
+        "name": "María Elena",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5854352,
+          -33.5608179
+        ]
+      },
+      "id": "node/4261568136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261595279",
+        "elevator": "yes",
+        "name": "Av. Vicuña Mackenna",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5866924,
+          -33.5536173
+        ]
+      },
+      "id": "node/4261595279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261595280",
+        "name": "San José de la Estrella",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5867286,
+          -33.5534228
+        ]
+      },
+      "id": "node/4261595280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261616060",
+        "elevator": "yes",
+        "name": "Av. Vicuña Mackenna",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5880945,
+          -33.5465512
+        ]
+      },
+      "id": "node/4261616060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261616061",
+        "name": "Av. Trinidad",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5877807,
+          -33.5471283
+        ]
+      },
+      "id": "node/4261616061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261634078",
+        "name": "Rojas Magallanes",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5928596,
+          -33.5357253
+        ]
+      },
+      "id": "node/4261634078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261634079",
+        "elevator": "yes",
+        "name": "Av. Vicuña Mackena",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5928984,
+          -33.5359232
+        ]
+      },
+      "id": "node/4261634079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261692027",
+        "name": "Vicente Valdés",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5964729,
+          -33.5266827
+        ]
+      },
+      "id": "node/4261692027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261692028",
+        "name": "Don Pepe",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5970053,
+          -33.5268381
+        ]
+      },
+      "id": "node/4261692028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261692029",
+        "name": "Av. Vicuña Mackenna Poniente",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5972181,
+          -33.5260355
+        ]
+      },
+      "id": "node/4261692029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261692030",
+        "name": "Av. Vicuña Mackenna Oriente",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5967343,
+          -33.5260763
+        ]
+      },
+      "id": "node/4261692030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261695914",
+        "name": "Av. Vicuña Mackenna",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5961784,
+          -33.5198096
+        ]
+      },
+      "id": "node/4261695914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261719420",
+        "name": "Macul",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5899432,
+          -33.5082618
+        ]
+      },
+      "id": "node/4261719420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261751734",
+        "name": "Poniente",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5870897,
+          -33.4992653
+        ]
+      },
+      "id": "node/4261751734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261751735",
+        "name": "Oriente",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5863991,
+          -33.4995236
+        ]
+      },
+      "id": "node/4261751735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261751736",
+        "elevator": "yes",
+        "name": "Poniente",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5869824,
+          -33.4991512
+        ]
+      },
+      "id": "node/4261751736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261751737",
+        "elevator": "yes",
+        "name": "Oriente",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5863883,
+          -33.4994118
+        ]
+      },
+      "id": "node/4261751737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4262970596",
+        "elevator": "yes",
+        "name": "Oriente",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5793309,
+          -33.4883967
+        ]
+      },
+      "id": "node/4262970596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4262970597",
+        "name": "Oriente",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.579343,
+          -33.4884403
+        ]
+      },
+      "id": "node/4262970597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4262970598",
+        "name": "Poniente",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5813439,
+          -33.4880558
+        ]
+      },
+      "id": "node/4262970598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4262970599",
+        "elevator": "yes",
+        "name": "Poniente",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.581423,
+          -33.4880849
+        ]
+      },
+      "id": "node/4262970599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263001122",
+        "name": "Poniente",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5789118,
+          -33.4795507
+        ]
+      },
+      "id": "node/4263001122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263001123",
+        "name": "Oriente",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5782891,
+          -33.479695
+        ]
+      },
+      "id": "node/4263001123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263001125",
+        "elevator": "yes",
+        "name": "Poniente",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5789601,
+          -33.4797252
+        ]
+      },
+      "id": "node/4263001125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263001126",
+        "elevator": "yes",
+        "name": "Oriente",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5783112,
+          -33.479858
+        ]
+      },
+      "id": "node/4263001126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263026547",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5752046,
+          -33.4696525
+        ]
+      },
+      "id": "node/4263026547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263026548",
+        "elevator": "yes",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5755218,
+          -33.469599
+        ]
+      },
+      "id": "node/4263026548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263026549",
+        "elevator": "yes",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5753515,
+          -33.4692662
+        ]
+      },
+      "id": "node/4263026549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263026551",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5750834,
+          -33.46935
+        ]
+      },
+      "id": "node/4263026551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263060705",
+        "name": "Avenida Américo Vespucio Oriente",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5735532,
+          -33.4627317
+        ]
+      },
+      "id": "node/4263060705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263060707",
+        "elevator": "yes",
+        "name": "Poniente",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.574229,
+          -33.4621946
+        ]
+      },
+      "id": "node/4263060707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263092122",
+        "elevator": "yes",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5713863,
+          -33.4528756
+        ]
+      },
+      "id": "node/4263092122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263112486",
+        "elevator": "yes",
+        "name": "Oriente",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.571772,
+          -33.4456577
+        ]
+      },
+      "id": "node/4263112486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263112487",
+        "name": "Avenida Ossa Poniente",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5721062,
+          -33.4462603
+        ]
+      },
+      "id": "node/4263112487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263133038",
+        "elevator": "yes",
+        "name": "Sudeste",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5727525,
+          -33.4391351
+        ]
+      },
+      "id": "node/4263133038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263133039",
+        "name": "Suroeste",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5735122,
+          -33.439105
+        ]
+      },
+      "id": "node/4263133039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263262041",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5850347,
+          -33.4313068
+        ]
+      },
+      "id": "node/4263262041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263262042",
+        "elevator": "yes",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5848636,
+          -33.4320359
+        ]
+      },
+      "id": "node/4263262042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263274872",
+        "elevator": "yes",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5912053,
+          -33.4266417
+        ]
+      },
+      "id": "node/4263274872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263274873",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5915633,
+          -33.4258179
+        ]
+      },
+      "id": "node/4263274873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263293101",
+        "name": "Intermodal",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6470125,
+          -33.3807126
+        ]
+      },
+      "id": "node/4263293101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263293102",
+        "name": "Avenida Principal Capitán Ignacio Carrera Pinto",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6462435,
+          -33.3809114
+        ]
+      },
+      "id": "node/4263293102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263293103",
+        "elevator": "yes",
+        "name": "Carrera Pinto",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6467149,
+          -33.3808646
+        ]
+      },
+      "id": "node/4263293103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263304644",
+        "elevator": "yes",
+        "name": "Los Zapadores",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6427147,
+          -33.3909853
+        ]
+      },
+      "id": "node/4263304644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263311867",
+        "elevator": "yes",
+        "name": "Av. Recoleta",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6430657,
+          -33.3967419
+        ]
+      },
+      "id": "node/4263311867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263311868",
+        "name": "Av. Recoleta",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6431435,
+          -33.3967218
+        ]
+      },
+      "id": "node/4263311868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263325602",
+        "elevator": "yes",
+        "name": "Einstein",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6435382,
+          -33.4056654
+        ]
+      },
+      "id": "node/4263325602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263325603",
+        "name": "Einstein",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6436471,
+          -33.4056464
+        ]
+      },
+      "id": "node/4263325603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263336890",
+        "elevator": "yes",
+        "name": "Av. Recoleta",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.643883,
+          -33.4138255
+        ]
+      },
+      "id": "node/4263336890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263355956",
+        "elevator": "yes",
+        "name": "Av. Recoleta",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6451916,
+          -33.4226469
+        ]
+      },
+      "id": "node/4263355956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263355957",
+        "name": "Doctor Raimundo Charlin",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6453311,
+          -33.4230776
+        ]
+      },
+      "id": "node/4263355957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263392127",
+        "name": "Av. Recoleta",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.646887,
+          -33.4294266
+        ]
+      },
+      "id": "node/4263392127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263392128",
+        "elevator": "yes",
+        "name": "Lastra",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6474184,
+          -33.4296341
+        ]
+      },
+      "id": "node/4263392128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263408056",
+        "name": "Puente la Paz",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6518557,
+          -33.4324244
+        ]
+      },
+      "id": "node/4263408056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263418100",
+        "name": "Santo Domingo",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6600718,
+          -33.4372352
+        ]
+      },
+      "id": "node/4263418100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263418101",
+        "name": "Compañía de Jesús",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6597659,
+          -33.4392935
+        ]
+      },
+      "id": "node/4263418101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263447533",
+        "name": "Santa Isabel",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6587346,
+          -33.4524184
+        ]
+      },
+      "id": "node/4263447533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263451664",
+        "name": "Av. Matta Este",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6567863,
+          -33.4607034
+        ]
+      },
+      "id": "node/4263451664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263457495",
+        "elevator": "yes",
+        "name": "Ñuble",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6564157,
+          -33.4701524
+        ]
+      },
+      "id": "node/4263457495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263468559",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6497834,
+          -33.48226
+        ]
+      },
+      "id": "node/4263468559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263472363",
+        "name": "Suroeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6498813,
+          -33.4826057
+        ]
+      },
+      "id": "node/4263472363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263472364",
+        "name": "Sudeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6490389,
+          -33.482829
+        ]
+      },
+      "id": "node/4263472364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263488679",
+        "name": "Noroeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6515431,
+          -33.488608
+        ]
+      },
+      "id": "node/4263488679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263488680",
+        "name": "Suroeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6515873,
+          -33.4887343
+        ]
+      },
+      "id": "node/4263488680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263488681",
+        "name": "Noreste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6506808,
+          -33.4886673
+        ]
+      },
+      "id": "node/4263488681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263488682",
+        "name": "Sudeste",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6507846,
+          -33.4889783
+        ]
+      },
+      "id": "node/4263488682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263488683",
+        "elevator": "yes",
+        "name": "Llano Subercaseaux",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6513359,
+          -33.4886468
+        ]
+      },
+      "id": "node/4263488683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263522470",
+        "name": "Oriente",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6528924,
+          -33.4968765
+        ]
+      },
+      "id": "node/4263522470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263522471",
+        "name": "Poniente",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6532398,
+          -33.4967792
+        ]
+      },
+      "id": "node/4263522471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263526491",
+        "name": "Oriente",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6544763,
+          -33.5025235
+        ]
+      },
+      "id": "node/4263526491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263526492",
+        "name": "Poniente",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6548907,
+          -33.5023904
+        ]
+      },
+      "id": "node/4263526492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263542392",
+        "name": "Oriente",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6564889,
+          -33.509583
+        ]
+      },
+      "id": "node/4263542392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263542393",
+        "elevator": "yes",
+        "name": "Oriente",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.656505,
+          -33.5096188
+        ]
+      },
+      "id": "node/4263542393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263542394",
+        "name": "Poniente",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65691,
+          -33.5096266
+        ]
+      },
+      "id": "node/4263542394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263546162",
+        "addr:country": "CL",
+        "addr:unit": "B",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6586503,
+          -33.5172564
+        ]
+      },
+      "id": "node/4263546162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263546163",
+        "addr:country": "CL",
+        "addr:unit": "A",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6591719,
+          -33.5172799
+        ]
+      },
+      "id": "node/4263546163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263549877",
+        "addr:country": "CL",
+        "addr:unit": "A",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6617896,
+          -33.5264156
+        ]
+      },
+      "id": "node/4263549877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263549878",
+        "addr:country": "CL",
+        "addr:unit": "B",
+        "elevator": "yes",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6612331,
+          -33.5264827
+        ]
+      },
+      "id": "node/4263549878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263567713",
+        "addr:country": "CL",
+        "addr:unit": "A",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6648236,
+          -33.5368109
+        ]
+      },
+      "id": "node/4263567713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263567715",
+        "addr:country": "CL",
+        "addr:unit": "B",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6639951,
+          -33.5369581
+        ]
+      },
+      "id": "node/4263567715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263567717",
+        "addr:country": "CL",
+        "elevation": "yes",
+        "name": "G",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6642564,
+          -33.5371983
+        ]
+      },
+      "id": "node/4263567717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263583733",
+        "elevator": "yes",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6431539,
+          -33.5415876
+        ]
+      },
+      "id": "node/4263583733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263583734",
+        "elevator": "yes",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6429948,
+          -33.5408095
+        ]
+      },
+      "id": "node/4263583734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263589704",
+        "elevator": "yes",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6161782,
+          -33.5408215
+        ]
+      },
+      "id": "node/4263589704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263589705",
+        "elevator": "yes",
+        "name": "Sur",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6159513,
+          -33.5415125
+        ]
+      },
+      "id": "node/4263589705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263593226",
+        "name": "Poniente",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6344608,
+          -33.5424005
+        ]
+      },
+      "id": "node/4263593226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263593227",
+        "elevator": "yes",
+        "name": "Av. Santa Rosa Poniente",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.634443,
+          -33.5424142
+        ]
+      },
+      "id": "node/4263593227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263593228",
+        "elevator": "yes",
+        "name": "Av. Santa Rosa Oriente",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.634096,
+          -33.5424363
+        ]
+      },
+      "id": "node/4263593228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263593229",
+        "name": "Oriente",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6338519,
+          -33.5424866
+        ]
+      },
+      "id": "node/4263593229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263598233",
+        "elevator": "yes",
+        "name": "Poniente",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6059678,
+          -33.5308727
+        ]
+      },
+      "id": "node/4263598233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263598234",
+        "elevator": "yes",
+        "name": "Oriente",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6052047,
+          -33.5313154
+        ]
+      },
+      "id": "node/4263598234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263605736",
+        "name": "Serafín Zamora Poniente",
+        "railway": "subway_entrance",
+        "ref": "D",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.599871,
+          -33.5201124
+        ]
+      },
+      "id": "node/4263605736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263605738",
+        "name": "Paseo El Cabildo",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6003821,
+          -33.5193975
+        ]
+      },
+      "id": "node/4263605738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263605739",
+        "name": "Av. Vicuña Mackenna Oriente",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5999167,
+          -33.5192267
+        ]
+      },
+      "id": "node/4263605739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263605741",
+        "name": "Serafín Zamora Oriente",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5994231,
+          -33.5198886
+        ]
+      },
+      "id": "node/4263605741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263615667",
+        "elevator": "yes",
+        "name": "Vicuña Mackenna",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6063909,
+          -33.5129937
+        ]
+      },
+      "id": "node/4263615667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263615668",
+        "name": "Av. Vicuña Mackenna",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.612446,
+          -33.5079947
+        ]
+      },
+      "id": "node/4263615668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263615669",
+        "name": "Avenida Vicuña Mackenna",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6159685,
+          -33.4988856
+        ]
+      },
+      "id": "node/4263615669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263615670",
+        "name": "Av. Vicuña Mackenna Oriente",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6155154,
+          -33.498904
+        ]
+      },
+      "id": "node/4263615670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263624423",
+        "name": "Av. Camino Agrícola",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6175271,
+          -33.4916167
+        ]
+      },
+      "id": "node/4263624423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270002470",
+        "name": "Av. Vicuña Mackenna Oriente",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6189704,
+          -33.4866114
+        ]
+      },
+      "id": "node/4270002470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270017017",
+        "name": "Santa Elena / Juan Mitjans",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6222829,
+          -33.4778569
+        ]
+      },
+      "id": "node/4270017017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270042893",
+        "name": "Av. Irarrázaval Poniente",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6291586,
+          -33.4526163
+        ]
+      },
+      "id": "node/4270042893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270042896",
+        "name": "Av. Santa Isabel Poniente",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.630818,
+          -33.4470531
+        ]
+      },
+      "id": "node/4270042896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270042897",
+        "name": "Av. Santa Isabel Oriente",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6302072,
+          -33.4468687
+        ]
+      },
+      "id": "node/4270042897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270092436",
+        "name": "Avenida Francisco Bilbao",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6323213,
+          -33.4427542
+        ]
+      },
+      "id": "node/4270092436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270110557",
+        "layer": "-1",
+        "name": "Puente",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6512896,
+          -33.437094
+        ]
+      },
+      "id": "node/4270110557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270110558",
+        "name": "21 de Mayo",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6499011,
+          -33.4367599
+        ]
+      },
+      "id": "node/4270110558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270116870",
+        "elevator": "yes",
+        "name": "Catedral",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6687242,
+          -33.4390584
+        ]
+      },
+      "id": "node/4270116870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270121414",
+        "name": "Matucana Norte",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6804432,
+          -33.4402646
+        ]
+      },
+      "id": "node/4270121414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270121415",
+        "name": "Matucana Sur",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6804288,
+          -33.4404908
+        ]
+      },
+      "id": "node/4270121415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270124831",
+        "name": "Patria Nueva",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6911117,
+          -33.4383265
+        ]
+      },
+      "id": "node/4270124831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270126633",
+        "name": "Avenida Sergio Valdovinos",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7069892,
+          -33.4411239
+        ]
+      },
+      "id": "node/4270126633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270132857",
+        "elevator": "yes",
+        "name": "Av. Los Pajaritos",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7458455,
+          -33.4821225
+        ]
+      },
+      "id": "node/4270132857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270135293",
+        "name": "Av. San Pablo",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7168874,
+          -33.4431736
+        ]
+      },
+      "id": "node/4270135293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270138412",
+        "name": "Av. San Pablo Norte",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.740857,
+          -33.4445486
+        ]
+      },
+      "id": "node/4270138412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270140709",
+        "elevator": "yes",
+        "name": "Av. General Óscar Bonilla",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7395599,
+          -33.4527446
+        ]
+      },
+      "id": "node/4270140709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270144947",
+        "name": "Av. Teniente Cruz",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7381217,
+          -33.4624573
+        ]
+      },
+      "id": "node/4270144947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270150027",
+        "elevator": "yes",
+        "name": "Av. Los Pajaritos",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7404339,
+          -33.4751129
+        ]
+      },
+      "id": "node/4270150027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270353673",
+        "level": "0",
+        "name": "Juan José Rivera",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.75351,
+          -33.4899627
+        ]
+      },
+      "id": "node/4270353673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270367661",
+        "name": "Av. Los Pajaritos",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.757256,
+          -33.4967972
+        ]
+      },
+      "id": "node/4270367661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270384410",
+        "level": "0",
+        "name": "Av. Los Pajaritos",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7569894,
+          -33.5097989
+        ]
+      },
+      "id": "node/4270384410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270384411",
+        "level": "0",
+        "name": "Av. 5 De Abril",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7569817,
+          -33.510148
+        ]
+      },
+      "id": "node/4270384411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4468051849",
+        "name": "Providencia",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6185267,
+          -33.4289291
+        ]
+      },
+      "id": "node/4468051849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4502530905",
+        "name": "Los Militares / Galería Comercial",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5841072,
+          -33.4137611
+        ]
+      },
+      "id": "node/4502530905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4502530907",
+        "name": "Cruz del Sur / Galería Comercial",
+        "railway": "subway_entrance",
+        "ref": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5838939,
+          -33.4143022
+        ]
+      },
+      "id": "node/4502530907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4675704791",
+        "name": "Av. Matta Oeste",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6569124,
+          -33.4607089
+        ]
+      },
+      "id": "node/4675704791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219059071",
+        "name": "Avenida Nueva Providencia",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6079358,
+          -33.4218985
+        ]
+      },
+      "id": "node/5219059071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219059072",
+        "name": "General Holley",
+        "railway": "subway_entrance",
+        "ref": "E",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6085597,
+          -33.420437
+        ]
+      },
+      "id": "node/5219059072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219059073",
+        "name": "Avenida Suecia",
+        "railway": "subway_entrance",
+        "ref": "D",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6080841,
+          -33.4204604
+        ]
+      },
+      "id": "node/5219059073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219059074",
+        "name": "Avenida Francisco Bilbao",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6067405,
+          -33.4384968
+        ]
+      },
+      "id": "node/5219059074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219086501",
+        "name": "Avenida Pedro de Valdivia",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6051156,
+          -33.4543908
+        ]
+      },
+      "id": "node/5219086501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219086502",
+        "level": "1",
+        "name": "Avenida Grecia",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6070109,
+          -33.4625119
+        ]
+      },
+      "id": "node/5219086502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219086503",
+        "level": "0",
+        "name": "Patio",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6069564,
+          -33.4631713
+        ]
+      },
+      "id": "node/5219086503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219086504",
+        "level": "0",
+        "name": "Parque de la Ciudadanía",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6069047,
+          -33.462824
+        ]
+      },
+      "id": "node/5219086504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219086506",
+        "name": "Avenida Vicuña Mackenna / Carlos Dittborn",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6256063,
+          -33.4674869
+        ]
+      },
+      "id": "node/5219086506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219086507",
+        "name": "Avenida Santa Rosa",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6423258,
+          -33.476706
+        ]
+      },
+      "id": "node/5219086507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219086511",
+        "name": "Nataniel Cox",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6487657,
+          -33.476926
+        ]
+      },
+      "id": "node/5219086511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5221773156",
+        "name": "Lo Valledor",
+        "railway": "subway_entrance",
+        "survey:date": "2024-06-06",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6809535,
+          -33.4777297
+        ]
+      },
+      "id": "node/5221773156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5221773213",
+        "name": "Avenida Departamental",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.694637,
+          -33.483342
+        ]
+      },
+      "id": "node/5221773213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5264923575",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6067432,
+          -33.4386269
+        ]
+      },
+      "id": "node/5264923575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5546528751",
+        "name": "Norte",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6792988,
+          -33.4506595
+        ]
+      },
+      "id": "node/5546528751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6133299848",
+        "access": "yes",
+        "name": "Salida a Barros Arana",
+        "name:en": "Exit to Barros Arana St.",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6981378,
+          -33.5942848
+        ]
+      },
+      "id": "node/6133299848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6133299849",
+        "description": "Salida a Baquedano",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6976775,
+          -33.5942679
+        ]
+      },
+      "id": "node/6133299849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6219104079",
+        "name": "Autopista Los Libertadores",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6907484,
+          -33.3655906
+        ]
+      },
+      "id": "node/6219104079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6219179897",
+        "name": "Fernando Castillo Velasco",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5580449,
+          -33.4524348
+        ]
+      },
+      "id": "node/6219179897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6221480971",
+        "name": "Avenida Irarrázaval",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5801334,
+          -33.4549449
+        ]
+      },
+      "id": "node/6221480971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6221537802",
+        "name": "Irarrázaval",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5975165,
+          -33.4553151
+        ]
+      },
+      "id": "node/6221537802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6221554176",
+        "name": "Avenida Irarrázaval",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6137975,
+          -33.4534237
+        ]
+      },
+      "id": "node/6221554176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6221574181",
+        "name": "Matta Oriente",
+        "railway": "subway_entrance",
+        "ref": "D",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6279607,
+          -33.4545308
+        ]
+      },
+      "id": "node/6221574181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6257072084",
+        "bicycle": "no",
+        "name": "Universidad de Chile - A - Nueva York",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6508183,
+          -33.4436401
+        ]
+      },
+      "id": "node/6257072084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6257072285",
+        "bicycle": "no",
+        "name": "Universidad de Chile - B - Ahumada",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6504749,
+          -33.4432771
+        ]
+      },
+      "id": "node/6257072285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6257072287",
+        "bicycle": "no",
+        "name": "Universidad de Chile - D - Serrano",
+        "railway": "subway_entrance",
+        "ref": "D",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6499834,
+          -33.4439681
+        ]
+      },
+      "id": "node/6257072287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6257072288",
+        "bicycle": "no",
+        "name": "Universidad de Chile - E - Arturo Prat",
+        "railway": "subway_entrance",
+        "ref": "E",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6506651,
+          -33.4441289
+        ]
+      },
+      "id": "node/6257072288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6257072289",
+        "bicycle": "no",
+        "name": "Universidad de Chile - Ascensor Preferencial",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65017,
+          -33.443987
+        ]
+      },
+      "id": "node/6257072289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6521851771",
+        "name": "Salida a Avenida Portales",
+        "name:en": "Exit to Portales Ave.",
+        "railway": "subway_entrance",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7050978,
+          -33.6329657
+        ]
+      },
+      "id": "node/6521851771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7006637084",
+        "name": "Avenida Dorsal",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6694615,
+          -33.3974827
+        ]
+      },
+      "id": "node/7006637084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7006679586",
+        "name": "Avenida Independencia",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6792071,
+          -33.3853047
+        ]
+      },
+      "id": "node/7006679586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7006679587",
+        "name": "Santa Laura",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6608527,
+          -33.4065526
+        ]
+      },
+      "id": "node/7006679587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7006740002",
+        "name": "Profesor Alberto Zañartu",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6560385,
+          -33.4179292
+        ]
+      },
+      "id": "node/7006740002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7006740004",
+        "name": "Paseo Bandera",
+        "railway": "subway_entrance",
+        "ref": "E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6528897,
+          -33.437162
+        ]
+      },
+      "id": "node/7006740004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7006740005",
+        "name": "San Diego",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6508436,
+          -33.451455
+        ]
+      },
+      "id": "node/7006740005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7006740006",
+        "name": "Avenida Manuel Antonio Matta",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6430405,
+          -33.4578998
+        ]
+      },
+      "id": "node/7006740006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7246470105",
+        "name": "José Toribio Medina",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6983219,
+          -33.5861008
+        ]
+      },
+      "id": "node/7246470105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7251246940",
+        "name": "Aníbal Pinto",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6986992,
+          -33.5860954
+        ]
+      },
+      "id": "node/7251246940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7505106294",
+        "name": "Franklin",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6498346,
+          -33.476369
+        ]
+      },
+      "id": "node/7505106294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8181334524",
+        "name": "Intermodal Los Libertadores",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6914504,
+          -33.3654168
+        ]
+      },
+      "id": "node/8181334524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053622327",
+        "level": "0",
+        "name": "Luis Thayer Ojeda Norte",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6029022,
+          -33.4185348
+        ]
+      },
+      "id": "node/9053622327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053677357",
+        "level": "0",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6014252,
+          -33.4185826
+        ]
+      },
+      "id": "node/9053677357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136393801",
+        "name": "Salida a Portales Oriente",
+        "name:en": "Exit to Portales Oriente",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.700746,
+          -33.6238755
+        ]
+      },
+      "id": "node/9136393801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136393802",
+        "name": "Salida a Avenida Portales",
+        "name:en": "Exit to Portales Ave.",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7011266,
+          -33.6237715
+        ]
+      },
+      "id": "node/9136393802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9723755298",
+        "name": "Intermodal Los Libertadores",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6926463,
+          -33.3654225
+        ]
+      },
+      "id": "node/9723755298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10582062657",
+        "addr:country": "CL",
+        "level": "-2",
+        "name": "E",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6642086,
+          -33.5384865
+        ]
+      },
+      "id": "node/10582062657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10595421806",
+        "addr:country": "CL",
+        "name": "D",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6649597,
+          -33.5386202
+        ]
+      },
+      "id": "node/10595421806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10595421807",
+        "addr:country": "CL",
+        "name": "F",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6648573,
+          -33.5377757
+        ]
+      },
+      "id": "node/10595421807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10696149920",
+        "name": "Apoquindo",
+        "railway": "subway_entrance",
+        "ref": "F",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6008003,
+          -33.4177268
+        ]
+      },
+      "id": "node/10696149920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10696149921",
+        "name": "Encomenderos",
+        "railway": "subway_entrance",
+        "ref": "E",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6018716,
+          -33.4171307
+        ]
+      },
+      "id": "node/10696149921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10707331749",
+        "name": "Puente la Paz",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6514966,
+          -33.4325082
+        ]
+      },
+      "id": "node/10707331749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723170893",
+        "bicycle": "no",
+        "name": "Universidad de Chile - C - Estado",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6499214,
+          -33.4434335
+        ]
+      },
+      "id": "node/10723170893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10820638380",
+        "name": "Avenida Alcalde Carlos Valdovinos",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6649813,
+          -33.4784959
+        ]
+      },
+      "id": "node/10820638380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10822802794",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6865396,
+          -33.4532791
+        ]
+      },
+      "id": "node/10822802794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10903423091",
+        "name": "Avenida Independencia",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6861514,
+          -33.3732486
+        ]
+      },
+      "id": "node/10903423091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10943273378",
+        "name": "Catedral",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6583921,
+          -33.4382556
+        ]
+      },
+      "id": "node/10943273378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10947643086",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7148773,
+          -33.4575918
+        ]
+      },
+      "id": "node/10947643086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11000972277",
+        "addr:city": "La Reina",
+        "addr:housename": "Mall Plaza Egaña",
+        "addr:housenumber": "5862",
+        "addr:street": "Avenida Larraín",
+        "level": "-2",
+        "name": "Mall",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5701316,
+          -33.4527817
+        ]
+      },
+      "id": "node/11000972277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11026177881",
+        "name": "Guardiamarina Riquelme",
+        "railway": "subway_entrance",
+        "ref": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6606882,
+          -33.4384341
+        ]
+      },
+      "id": "node/11026177881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11081437488",
+        "name": "Avenida San Pablo",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6909696,
+          -33.4381652
+        ]
+      },
+      "id": "node/11081437488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11081437489",
+        "name": "San Gumercindo",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.690903,
+          -33.4383509
+        ]
+      },
+      "id": "node/11081437489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11081437490",
+        "name": "Avenida San Pablo",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7067626,
+          -33.4411673
+        ]
+      },
+      "id": "node/11081437490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11212300087",
+        "name": "Manuel Antonio Matta Sur",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7293475,
+          -33.3659383
+        ]
+      },
+      "id": "node/11212300087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11212300088",
+        "name": "Manuel Antonio Matta Norte",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7293282,
+          -33.3655595
+        ]
+      },
+      "id": "node/11212300088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11212300089",
+        "name": "Lo Cruzat",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.720349,
+          -33.3664698
+        ]
+      },
+      "id": "node/11212300089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11212300090",
+        "name": "Manuel Antonio Matta",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7058812,
+          -33.3651078
+        ]
+      },
+      "id": "node/11212300090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11216152036",
+        "description": "Salida a Roberto Paut Calderón",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6968637,
+          -33.6069312
+        ]
+      },
+      "id": "node/11216152036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11216170137",
+        "description": "Salida a Avenida Portales",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6971553,
+          -33.6069525
+        ]
+      },
+      "id": "node/11216170137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11350194484",
+        "level": "1",
+        "name": "Avenida Lo Blanco",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6768695,
+          -33.5822923
+        ]
+      },
+      "id": "node/11350194484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11350194485",
+        "level": "1",
+        "name": "Avenida Padre Hurtado",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6765503,
+          -33.5830109
+        ]
+      },
+      "id": "node/11350194485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11350279620",
+        "check_date": "2023-12-01",
+        "level": "1",
+        "name": "Avenida El Observatorio",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "start_date": "2023-11-27",
+        "wheelchair": "yes",
+        "wikimedia_commons": "File:Estación Observatorio 05.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6702558,
+          -33.5604074
+        ]
+      },
+      "id": "node/11350279620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11350279623",
+        "check_date": "2023-12-01",
+        "level": "1",
+        "name": "Avenida Lo Martínez",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "source": "https://www.metro.cl/el-viaje/estaciones/?estacion=CM",
+        "start_date": "2023-11-27",
+        "wheelchair": "no",
+        "wikimedia_commons": "File:Estación Copa Lo Martínez 02.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6736897,
+          -33.570743
+        ]
+      },
+      "id": "node/11350279623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11350279786",
+        "level": "1",
+        "name": "Ernesto Riquelme",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6669038,
+          -33.5465147
+        ]
+      },
+      "id": "node/11350279786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11350279819",
+        "addr:country": "CL",
+        "addr:unit": "C",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6645313,
+          -33.5374107
+        ]
+      },
+      "id": "node/11350279819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11507724199",
+        "level": "1",
+        "name": "Avenida Providencia",
+        "railway": "subway_entrance",
+        "ref": "D",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6347735,
+          -33.4374069
+        ]
+      },
+      "id": "node/11507724199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11544119095",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5692121,
+          -33.4091046
+        ]
+      },
+      "id": "node/11544119095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11888176413",
+        "level": "0",
+        "name": "Explanada",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7567197,
+          -33.5099096
+        ]
+      },
+      "id": "node/11888176413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11888176418",
+        "level": "0",
+        "name": "Intermodal",
+        "railway": "subway_entrance",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.752989,
+          -33.4900208
+        ]
+      },
+      "id": "node/11888176418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11888176421",
+        "name": "Av. San Pablo Sur",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7412653,
+          -33.4448721
+        ]
+      },
+      "id": "node/11888176421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11888176423",
+        "name": "Av. San Pablo",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7228315,
+          -33.4443879
+        ]
+      },
+      "id": "node/11888176423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11888176425",
+        "name": "Av. San Pablo",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7229618,
+          -33.4444547
+        ]
+      },
+      "id": "node/11888176425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11888176441",
+        "name": "Av. Vicuña Mackenna Poniente",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6192094,
+          -33.4865983
+        ]
+      },
+      "id": "node/11888176441"
+    }
+  ]
+}
