@@ -1,0 +1,3534 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-11-10T14:48:25Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330051401",
+        "addr:city": "Puente Alto",
+        "addr:country": "CL",
+        "addr:housename": "Mall Plaza Tobalaba",
+        "addr:housenumber": "3296",
+        "addr:street": "Avenida Camilo Henríquez",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Integramedica Tobalaba",
+        "wikidata": "Q93743293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5573288,
+          -33.5687867
+        ]
+      },
+      "id": "node/330051401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/338511118",
+        "addr:country": "CL",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital de Niños",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5813935,
+          -33.5745464
+        ]
+      },
+      "id": "node/338511118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/668455176",
+        "addr:city": "Providencia",
+        "addr:country": "CL",
+        "addr:full": "Antonio Bellet 189, Providencia, Santiago, Chile",
+        "addr:housenumber": "189",
+        "addr:street": "Antonio Bellet",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica Costanera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6178673,
+          -33.4255559
+        ]
+      },
+      "id": "node/668455176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/950843034",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cruz Roja Chilena El Monte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9784926,
+          -33.6795986
+        ]
+      },
+      "id": "node/950843034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/990116928",
+        "addr:country": "CL",
+        "addr:housenumber": "329",
+        "addr:street": "Avenida Manquehue Sur",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Integramédica Centro de Exámenes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5667559,
+          -33.4110619
+        ]
+      },
+      "id": "node/990116928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1034505275",
+        "addr:city": "Pirque",
+        "addr:country": "CL",
+        "alt_name": "Centro de Salud Familiar José Manuel Balmaceda",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM José Manuel Balmaceda",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5726177,
+          -33.6350461
+        ]
+      },
+      "id": "node/1034505275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1118043087",
+        "addr:city": "Lo Barnechea",
+        "addr:country": "CL",
+        "addr:housenumber": "1445",
+        "addr:street": "Avenida La Dehesa",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro Medico Clínica Santa Maria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5143847,
+          -33.3576626
+        ]
+      },
+      "id": "node/1118043087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1234321003",
+        "addr:country": "CL",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital San José de Maipo",
+        "wikidata": "Q93743273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3518598,
+          -33.64094
+        ]
+      },
+      "id": "node/1234321003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1278659100",
+        "addr:country": "CL",
+        "addr:housename": "Mall Plaza Oeste",
+        "addr:housenumber": "1501",
+        "addr:street": "Avenida Américo Vespucio",
+        "amenity": "clinic",
+        "contact:website": "https://www.integramedica.cl/",
+        "healthcare": "clinic",
+        "name": "Integramédica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7176543,
+          -33.5166786
+        ]
+      },
+      "id": "node/1278659100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1278732757",
+        "addr:city": "Huechuraba",
+        "addr:country": "CL",
+        "addr:housename": "Mall Plaza Norte",
+        "addr:housenumber": "1737",
+        "addr:street": "Avenida Américo Vespucio",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "level": "3",
+        "name": "Integramédica",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-14:00; Su 08:00-13:00",
+        "website": "https://www.integramedica.cl/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6783403,
+          -33.3662691
+        ]
+      },
+      "id": "node/1278732757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1503969687",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Clínica Central"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6441072,
+          -33.4464549
+        ]
+      },
+      "id": "node/1503969687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1555786296",
+        "addr:country": "CL",
+        "amenity": "hospital",
+        "name": "Clínica Marcos Cornejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6761916,
+          -33.2067295
+        ]
+      },
+      "id": "node/1555786296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686156671",
+        "addr:city": "Talagante",
+        "addr:country": "CL",
+        "addr:street": "Francisco Chacón",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM Talagante",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9291715,
+          -33.6635121
+        ]
+      },
+      "id": "node/1686156671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2055969270",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Centro Salud",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7413917,
+          -33.4175276
+        ]
+      },
+      "id": "node/2055969270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2838589219",
+        "addr:city": "La Reina",
+        "addr:country": "CL",
+        "addr:housenumber": "345",
+        "addr:street": "Avenida Ossa",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro Médico La Reina - Clínica Santa María"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5704583,
+          -33.4500779
+        ]
+      },
+      "id": "node/2838589219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3058138092",
+        "addr:city": "Santiago",
+        "addr:country": "CL",
+        "addr:housenumber": "219",
+        "addr:street": "Ejército Libertador",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica odontologica UDP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6611506,
+          -33.4499133
+        ]
+      },
+      "id": "node/3058138092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3113214572",
+        "addr:city": "Peñalolén",
+        "addr:country": "CL",
+        "addr:housenumber": "1960",
+        "addr:street": "Avenida Consistorial",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Consultorio Carol Urzúa Ibáñez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.543159,
+          -33.4768736
+        ]
+      },
+      "id": "node/3113214572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3481174039",
+        "addr:city": "Santiago",
+        "addr:country": "CL",
+        "addr:housenumber": "543",
+        "addr:street": "Cueto",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cesfam Ignacio Domeyko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6724005,
+          -33.4387766
+        ]
+      },
+      "id": "node/3481174039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3725765640",
+        "addr:city": "La Cisterna",
+        "addr:country": "CL",
+        "addr:housenumber": "059",
+        "addr:street": "Carvajal",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;gynaecology;paediatrics;psychiatry;dentist;clinic",
+        "name": "Centro Médico Santa Elena",
+        "phone": "+56 2 2521 9109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.659101,
+          -33.5168474
+        ]
+      },
+      "id": "node/3725765640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3823225786",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Vida Integra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6588662,
+          -33.4463252
+        ]
+      },
+      "id": "node/3823225786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3882182222",
+        "addr:city": "Las Condes",
+        "addr:country": "CL",
+        "addr:housenumber": "107",
+        "addr:street": "San Pascual",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica Estética San Pascual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5809803,
+          -33.4139208
+        ]
+      },
+      "id": "node/3882182222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3883484667",
+        "addr:city": "Buin",
+        "addr:country": "CL",
+        "addr:housenumber": "490",
+        "addr:street": "Balmaceda",
+        "amenity": "clinic",
+        "name": "Cruz Roja Chilena Buin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7426324,
+          -33.7325484
+        ]
+      },
+      "id": "node/3883484667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3885322100",
+        "addr:city": "Buin",
+        "addr:country": "CL",
+        "addr:housenumber": "192",
+        "addr:street": "José Joaquín Pérez",
+        "amenity": "clinic",
+        "name": "Clínica Dental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7410221,
+          -33.7310827
+        ]
+      },
+      "id": "node/3885322100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3885336838",
+        "addr:city": "Buin",
+        "addr:country": "CL",
+        "addr:housenumber": "90",
+        "addr:street": "Aníbal Pinto",
+        "amenity": "clinic",
+        "name": "Clínica Odontológica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7381327,
+          -33.7305902
+        ]
+      },
+      "id": "node/3885336838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4102780390",
+        "addr:city": "Santiago",
+        "addr:country": "CL",
+        "addr:housenumber": "418",
+        "addr:street": "San Antonio",
+        "amenity": "clinic",
+        "email": "info@laboratorios médicos.cl",
+        "healthcare": "clinic",
+        "name": "Laboratorios Médicos Santiago Centro",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-12:30",
+        "phone": "+56226392276",
+        "website": "https://laboratoriosmedicos.cl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.648424,
+          -33.4378163
+        ]
+      },
+      "id": "node/4102780390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4190095794",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "healthcare": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6457367,
+          -33.430437
+        ]
+      },
+      "id": "node/4190095794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4356685538",
+        "addr:city": "Pedro Aguirre Cerda",
+        "addr:country": "CL",
+        "addr:floor": "1A, 4A, 5A",
+        "addr:housenumber": "4676",
+        "addr:street": "Avenida Club Hípico",
+        "air_conditioning": "yes",
+        "amenity": "clinic",
+        "branch": "Ochagavía",
+        "brand": "NúcleoSalud",
+        "check_date": "2023-06-10",
+        "contact:email": "contacto@nucleosalud.cl",
+        "ele": "5",
+        "fixme": "opening_hours individuales por piso.",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ophthalmology;emergency;dentist;psychiatry;vaccination;orthodontics;internal;neurology;clinic;blood_check;dental_oral_maxillo_facial_surgery",
+        "internet_access": "no",
+        "name": "Clínica NúcleoSalud Ochagavía",
+        "opening_hours": "Mo-Fr 07:45-18:00 \"Piso 4A\"; Mo-Fr 08:30-19:00 \"Piso 5A\"; Sa 08:30-13:00",
+        "operator:type": "private",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "600 365 0100",
+        "source": "http://www.nucleosalud.com;local knowledge",
+        "website": "https://clinicanucleosalud.cl/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6673418,
+          -33.4917905
+        ]
+      },
+      "id": "node/4356685538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4360758090",
+        "addr:country": "CL",
+        "addr:housenumber": "6314 of 201",
+        "addr:street": "Avenida Apoquindo",
+        "amenity": "clinic",
+        "name": "Clínica Dental Zahnart",
+        "name:es": "Clínica Dental Zahnart",
+        "source": "Reconocimiento cortográfico de campo 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5648012,
+          -33.4078189
+        ]
+      },
+      "id": "node/4360758090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4398716397",
+        "addr:country": "CL",
+        "addr:street": "El Mirador",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "name": "CESFAM Arauco",
+        "name:es": "CESFAM Arauco",
+        "official_name": "Centro de Salud Familiar",
+        "phone": "+56224985417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6702274,
+          -33.4681453
+        ]
+      },
+      "id": "node/4398716397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422876244",
+        "addr:city": "Providencia",
+        "addr:country": "CL",
+        "addr:housenumber": "1249",
+        "addr:street": "Avenida Andrés Bello",
+        "amenity": "clinic",
+        "name": "GESMED",
+        "source": "Reconocimiento cortográfico de campo 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.622488,
+          -33.427915
+        ]
+      },
+      "id": "node/4422876244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4424022498",
+        "addr:country": "CL",
+        "addr:street": "Avenida Recoleta",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro Medico",
+        "source": "Reconocimiento cortográfico de campo 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6471833,
+          -33.430423
+        ]
+      },
+      "id": "node/4424022498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426056122",
+        "addr:country": "CL",
+        "addr:street": "Avenida Padre Hurtado Sur",
+        "amenity": "clinic",
+        "name": "Clínica Meds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5387901,
+          -33.4229559
+        ]
+      },
+      "id": "node/4426056122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4433020322",
+        "addr:city": "Santiago",
+        "addr:country": "CL",
+        "addr:street": "José Joaquín Pérez",
+        "amenity": "clinic",
+        "name": "Clínica del Pin",
+        "phone": "25 01 92 72",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6996772,
+          -33.5931033
+        ]
+      },
+      "id": "node/4433020322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4433197630",
+        "addr:city": "Lo Barnechea",
+        "addr:country": "CL",
+        "addr:housenumber": "12850",
+        "addr:street": "Avenida El Rodeo",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Red de Salud UC Christus",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5211117,
+          -33.3528654
+        ]
+      },
+      "id": "node/4433197630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4433285020",
+        "addr:country": "CL",
+        "addr:street": "Rigoberto Jara",
+        "amenity": "clinic",
+        "name": "Medisalud",
+        "source": "Reconocimiento cortográfico de campo 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7486381,
+          -33.3544753
+        ]
+      },
+      "id": "node/4433285020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4433401876",
+        "addr:country": "CL",
+        "addr:street": "Avenida Las Torres Norte",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro Medico",
+        "source": "Reconocimiento cortográfico de campo 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.730596,
+          -33.3557735
+        ]
+      },
+      "id": "node/4433401876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4433423625",
+        "addr:country": "CL",
+        "addr:street": "Avenida Bernardo O'Higgins",
+        "amenity": "clinic",
+        "name": "Centro Medico Laboratorio Dental",
+        "source": "Reconocimiento cortográfico de campo 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7291413,
+          -33.359182
+        ]
+      },
+      "id": "node/4433423625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4434637858",
+        "addr:country": "CL",
+        "addr:housenumber": "581",
+        "addr:street": "Avenida Bernardo O'Higgins",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;dental;laboratory;kinesiology;imagenology",
+        "name": "RedSalud",
+        "source": "Reconocimiento cortográfico de campo 2016 por KG",
+        "website": "https://www.redsalud.cl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7303968,
+          -33.3683735
+        ]
+      },
+      "id": "node/4434637858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4436349193",
+        "addr:city": "Las Condes",
+        "addr:country": "CL",
+        "addr:street": "Avenida El Bosque Norte",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "internet_access": "wlan",
+        "name": "Vidaintegra",
+        "name:en": "Vidaintegra",
+        "name:es": "Vidaintegra",
+        "website": "http://www.vidaintegra.cl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.600686,
+          -33.4164157
+        ]
+      },
+      "id": "node/4436349193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4436570207",
+        "addr:city": "Ñuñoa",
+        "addr:country": "CL",
+        "addr:street": "Cauquenes",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica Oriente",
+        "wikidata": "Q93742949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5762336,
+          -33.4552049
+        ]
+      },
+      "id": "node/4436570207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4442924651",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Sonomed",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5766958,
+          -33.6065381
+        ]
+      },
+      "id": "node/4442924651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4442967449",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica Medica y Dental",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.575949,
+          -33.6102723
+        ]
+      },
+      "id": "node/4442967449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443012370",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro Salud",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5744839,
+          -33.6124834
+        ]
+      },
+      "id": "node/4443012370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4444226160",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Centro Medico y Dental Puente Alto",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.57362,
+          -33.6073707
+        ]
+      },
+      "id": "node/4444226160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4444307842",
+        "addr:country": "CL",
+        "addr:street": "Guayaquil",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Laboratorio Clínico",
+        "source": "Reconocimiento cortográfico de campo 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6434264,
+          -33.4431668
+        ]
+      },
+      "id": "node/4444307842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4444744542",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica Astra",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7024818,
+          -33.5922403
+        ]
+      },
+      "id": "node/4444744542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4446190513",
+        "addr:country": "CL",
+        "addr:street": "Lastra",
+        "amenity": "clinic",
+        "name": "Alfamédica",
+        "source": "Reconocimiento cortográfico de campo 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6549499,
+          -33.428496
+        ]
+      },
+      "id": "node/4446190513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4446260068",
+        "addr:city": "Santiago",
+        "addr:country": "CL",
+        "addr:housenumber": "168",
+        "addr:street": "Bandera",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "IntegraMédica",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.652159,
+          -33.4414548
+        ]
+      },
+      "id": "node/4446260068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4446473595",
+        "addr:country": "CL",
+        "addr:housenumber": "5093",
+        "addr:street": "Avenida Macul",
+        "amenity": "clinic",
+        "name": "MyE Medical",
+        "phone": "2283 9386",
+        "source": "Reconocimiento cortográfico de campo 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5964138,
+          -33.4994869
+        ]
+      },
+      "id": "node/4446473595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4448407645",
+        "addr:country": "CL",
+        "addr:street": "Santo Domingo",
+        "amenity": "clinic",
+        "name": "Consulta Médica",
+        "source": "Reconocimiento cortográfico de campo 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6530684,
+          -33.4362659
+        ]
+      },
+      "id": "node/4448407645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4453882782",
+        "addr:city": "Ñuñoa",
+        "addr:country": "CL",
+        "addr:housenumber": "2087",
+        "addr:street": "Avenida Irarrázaval",
+        "amenity": "clinic",
+        "name": "Consalud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6092938,
+          -33.4538529
+        ]
+      },
+      "id": "node/4453882782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4454014512",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Consulta Medica",
+        "source": "Reconocimiento cortográfico de campo 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6514734,
+          -33.4372122
+        ]
+      },
+      "id": "node/4454014512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455773555",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Centro Médico y Dental Prontomed",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7429088,
+          -33.4150284
+        ]
+      },
+      "id": "node/4455773555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4456009008",
+        "addr:city": "Providencia",
+        "addr:country": "CL",
+        "addr:street": "Eliodoro Yáñez",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro Ortopédico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.620099,
+          -33.4338796
+        ]
+      },
+      "id": "node/4456009008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4456641542",
+        "addr:country": "CL",
+        "addr:street": "Avenida El Rosal",
+        "amenity": "clinic",
+        "name": "Centro Medico y Dental Medicina Cubana",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7672772,
+          -33.4849214
+        ]
+      },
+      "id": "node/4456641542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4458147873",
+        "addr:country": "CL",
+        "addr:street": "Serafín Zamora",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Consultas Medicas",
+        "source": "Reconocimiento cortográfico de campo 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6005109,
+          -33.5211416
+        ]
+      },
+      "id": "node/4458147873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4458164652",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Centro Medico y Dental",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7321087,
+          -33.4293572
+        ]
+      },
+      "id": "node/4458164652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4458392466",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Centro Medico y Dental",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7403958,
+          -33.4300717
+        ]
+      },
+      "id": "node/4458392466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4462153564",
+        "addr:country": "CL",
+        "addr:street": "Avenida Los Pajaritos",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica Davila",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7576493,
+          -33.5095977
+        ]
+      },
+      "id": "node/4462153564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4462380705",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínico Astro",
+        "source": "Reconocimiento cortográfico de campo 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7580547,
+          -33.5035137
+        ]
+      },
+      "id": "node/4462380705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4462391198",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Centro Medico y Dialisis Prodial LTDA",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7663153,
+          -33.4289629
+        ]
+      },
+      "id": "node/4462391198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4463786187",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Multi Medical",
+        "source": "Reconocimiento cortográfico de campo 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7579635,
+          -33.4971488
+        ]
+      },
+      "id": "node/4463786187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4464110577",
+        "addr:city": "Ñuñoa",
+        "addr:country": "CL",
+        "addr:street": "Domingo Faustino Sarmiento",
+        "amenity": "clinic",
+        "name": "Podología"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6142425,
+          -33.4527202
+        ]
+      },
+      "id": "node/4464110577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4465535808",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "SionSalud",
+        "source": "Reconocimiento cartográfico 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7694915,
+          -33.5214199
+        ]
+      },
+      "id": "node/4465535808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4466657772",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Clínica Bellolio",
+        "source": "Reconocimiento cartográfico 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7555362,
+          -33.5133717
+        ]
+      },
+      "id": "node/4466657772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4466658492",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Clínica Bellolio",
+        "source": "Reconocimiento cartográfico 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7545914,
+          -33.5132444
+        ]
+      },
+      "id": "node/4466658492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4468362340",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Consulta Medica de La Familia",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7674357,
+          -33.435754
+        ]
+      },
+      "id": "node/4468362340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469390647",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "health_facility:type": "laboratory",
+        "name": "Cemeslab",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7664365,
+          -33.4342593
+        ]
+      },
+      "id": "node/4469390647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469390658",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "health_facility:type": "laboratory",
+        "name": "Centro Medico Cemeslab",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7668835,
+          -33.4343744
+        ]
+      },
+      "id": "node/4469390658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469414401",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Clínica Veterinaria",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7525953,
+          -33.4391017
+        ]
+      },
+      "id": "node/4469414401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4471712872",
+        "addr:city": "Providencia",
+        "addr:country": "CL",
+        "addr:housenumber": "1920",
+        "addr:street": "Avenida Nueva Providencia",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro Médico y Dental RedSalud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6131696,
+          -33.4250727
+        ]
+      },
+      "id": "node/4471712872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4473072600",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Universal",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7328001,
+          -33.4443885
+        ]
+      },
+      "id": "node/4473072600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4474296878",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Servimedic",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.543189,
+          -33.4756116
+        ]
+      },
+      "id": "node/4474296878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4480396680",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Polisalud",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5719485,
+          -33.5383633
+        ]
+      },
+      "id": "node/4480396680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4482449500",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Universal",
+        "source": "Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5639535,
+          -33.4713835
+        ]
+      },
+      "id": "node/4482449500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4488812889",
+        "addr:city": "Santiago",
+        "addr:country": "CL",
+        "addr:street": "San Diego",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Laboratorio metropolitana",
+        "name:es": "Laboratorio metropolitana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.650058,
+          -33.4533572
+        ]
+      },
+      "id": "node/4488812889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4494764335",
+        "addr:city": "La Cisterna",
+        "addr:country": "CL",
+        "addr:street": "Gran Avenida José Miguel Carrera",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Consulta Medica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6633676,
+          -33.534376
+        ]
+      },
+      "id": "node/4494764335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4506833629",
+        "addr:country": "CL",
+        "addr:street": "Las Azaleas",
+        "amenity": "clinic",
+        "name": "Clínica del Colon Columbia Vertebral",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.550756,
+          -33.3967504
+        ]
+      },
+      "id": "node/4506833629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4514168990",
+        "addr:city": "Peñalolen",
+        "addr:country": "CL",
+        "addr:street": "Avenida Tobalaba",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Ortopedia Suiza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5592613,
+          -33.4870664
+        ]
+      },
+      "id": "node/4514168990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4515565146",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "source": "Reconocimiento cartográfico 2016 por KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5548053,
+          -33.4078779
+        ]
+      },
+      "id": "node/4515565146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4605824835",
+        "addr:city": "Providencia",
+        "addr:country": "CL",
+        "addr:housenumber": "1241",
+        "addr:street": "Avenida Andrés Bello",
+        "amenity": "clinic",
+        "name": "Centro Médico y Dental Sindicato SINAMI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6225451,
+          -33.4280954
+        ]
+      },
+      "id": "node/4605824835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4653643475",
+        "addr:city": "Santiago",
+        "addr:country": "CL",
+        "addr:housenumber": "1173",
+        "addr:street": "Artemio Gutiérrez",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Policlínico Genchi",
+        "wikidata": "Q93742670"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6377595,
+          -33.4583411
+        ]
+      },
+      "id": "node/4653643475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4706012834",
+        "addr:city": "La Reina",
+        "addr:country": "CL",
+        "addr:housenumber": "5862",
+        "addr:street": "Avenida Larraín",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "level": "4",
+        "name": "Integramédica Plaza Egaña",
+        "operator": "Bupa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5698713,
+          -33.4532949
+        ]
+      },
+      "id": "node/4706012834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4785112421",
+        "addr:city": "Ñuñoa",
+        "addr:country": "CL",
+        "addr:housenumber": "2401",
+        "addr:street": "Avenida Irarrázaval",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro Médico Dávila Ñuñoa",
+        "name:es": "Centro médico Dávila Ñuñoa",
+        "opening_hours:url": "https://www.davila.cl/centro-medico-davila-nunoa/",
+        "operator": "Clínica Dávila",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6062588,
+          -33.4543725
+        ]
+      },
+      "id": "node/4785112421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4815874433",
+        "addr:country": "CL",
+        "addr:housenumber": "970",
+        "addr:street": "Alcalde Pedro Alarcón",
+        "amenity": "clinic",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "ACHS",
+        "name:es": "Asociación Chilena de Seguridad",
+        "operator": "ACHS",
+        "website": "https://www.achs.cl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6479945,
+          -33.4868472
+        ]
+      },
+      "id": "node/4815874433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4825689921",
+        "addr:country": "CL",
+        "addr:housenumber": "141",
+        "addr:street": "Celia Zegers",
+        "amenity": "clinic",
+        "internet_access": "wlan",
+        "name": "Centro Medico y de Dialisis LTDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6609067,
+          -33.5324009
+        ]
+      },
+      "id": "node/4825689921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4856410324",
+        "addr:country": "CL",
+        "addr:housenumber": "2167",
+        "amenity": "clinic",
+        "name": "Clinic oftalmologica Providencia",
+        "name:es": "Clinic oftalmologica Providencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6115974,
+          -33.4207989
+        ]
+      },
+      "id": "node/4856410324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974419621",
+        "addr:city": "La Granja",
+        "addr:country": "CL",
+        "addr:housenumber": "0620",
+        "addr:street": "Pasaje Guayacán",
+        "amenity": "clinic",
+        "email": "fabiangutierrez.leon@gmail.com",
+        "healthcare": "clinic",
+        "internet_access": "wlan",
+        "name": "Kinefagleon",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Fabián Gutiérrez",
+        "phone": "+56978701494",
+        "website": "http://www.fabgleon.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6231223,
+          -33.556571
+        ]
+      },
+      "id": "node/4974419621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5010245121",
+        "addr:city": "Las Condes",
+        "addr:country": "CL",
+        "addr:street": "Cerro Colorado",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Toma de Muestras",
+        "name:es": "Toma de Muestras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5799171,
+          -33.4038467
+        ]
+      },
+      "id": "node/5010245121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5013274522",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica Bicentenario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7014369,
+          -33.4577424
+        ]
+      },
+      "id": "node/5013274522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5067721522",
+        "addr:city": "Providencia",
+        "addr:country": "CL",
+        "addr:housenumber": "443",
+        "addr:street": "Avenida Antonio Varas",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Inside Tattoo",
+        "name:en": "Inside Tattoo",
+        "name:es": "Inside Tattoo",
+        "phone": "+56 2 2885 4891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6162721,
+          -33.4316533
+        ]
+      },
+      "id": "node/5067721522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5404555967",
+        "addr:city": "Pudahuel",
+        "addr:country": "CL",
+        "addr:street": "Camino Noviciado",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cecosf Irene Frei Montalva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8544617,
+          -33.4027432
+        ]
+      },
+      "id": "node/5404555967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5583551497",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "healthcare": "optometrist",
+        "name": "Centro Oftalmológico Municipal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6672467,
+          -33.533961
+        ]
+      },
+      "id": "node/5583551497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5645883555",
+        "addr:country": "CL",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM Santa Laura",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6888015,
+          -33.5525139
+        ]
+      },
+      "id": "node/5645883555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796475498",
+        "addr:city": "Santiago",
+        "addr:country": "CL",
+        "addr:housenumber": "10581",
+        "addr:street": "Avenida José Alcalde Délano",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "orthopaedics;physiotherapy",
+        "name": "Clínica MEDS",
+        "opening_hours": "24/7",
+        "operator": "Clínica MEDS",
+        "website": "https://www.meds.cl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5352486,
+          -33.3555616
+        ]
+      },
+      "id": "node/5796475498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5920962879",
+        "addr:city": "Santiago",
+        "addr:country": "CL",
+        "addr:housenumber": "929",
+        "addr:street": "Avenida Libertador Bernardo O'Higgins",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica CELA Santiago Centro",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:30-16:00; Su,PH off",
+        "phone": "+56223069251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6495153,
+          -33.4430123
+        ]
+      },
+      "id": "node/5920962879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5921435504",
+        "addr:city": "Las Condes",
+        "addr:country": "CL",
+        "addr:housenumber": "101",
+        "addr:street": "Lo Fontecilla",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica CELA Las Condes",
+        "opening_hours": "Mo-Fr 09:00-14:00,15:00-20:00; Sa[1] 09:30-16:00; Su,PH off",
+        "phone": "+56223069254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5319353,
+          -33.3828786
+        ]
+      },
+      "id": "node/5921435504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5926803914",
+        "addr:country": "CL",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM N°5",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6737593,
+          -33.4511994
+        ]
+      },
+      "id": "node/5926803914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5959702409",
+        "addr:city": "Maipú",
+        "addr:country": "CL",
+        "addr:housenumber": "1790",
+        "addr:street": "Avenida Los Pajaritos",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "depilacion_laser;tratamientos_laser",
+        "name": "IntegraMédica Maipú"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7575844,
+          -33.5111093
+        ]
+      },
+      "id": "node/5959702409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6117208186",
+        "addr:country": "CL",
+        "addr:housenumber": "5870",
+        "addr:street": "Avenida Alonso de Córdova",
+        "amenity": "clinic",
+        "name": "Raquis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5703953,
+          -33.4073276
+        ]
+      },
+      "id": "node/6117208186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6133704847",
+        "addr:city": "Calera de Tango",
+        "addr:country": "CL",
+        "addr:floor": "1",
+        "addr:street": "Avenida Calera de Tango",
+        "amenity": "clinic",
+        "check_date": "2024-10-13",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dentist",
+        "level": "0",
+        "name": "Clínica Calera de Tango",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7568231,
+          -33.6316142
+        ]
+      },
+      "id": "node/6133704847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6587243320",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "name": "Centro de Diagnóstico CEDINTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.592915,
+          -33.5012331
+        ]
+      },
+      "id": "node/6587243320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6621452310",
+        "addr:country": "CL",
+        "addr:housenumber": "1624",
+        "addr:street": "San Ignacio",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica del Sol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8278654,
+          -33.5612508
+        ]
+      },
+      "id": "node/6621452310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6641864937",
+        "addr:city": "Las Condes",
+        "addr:country": "CL",
+        "addr:housenumber": "655",
+        "addr:street": "Avenida Manquehue Sur",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica CELA Manquehue",
+        "office": "206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5664566,
+          -33.4122166
+        ]
+      },
+      "id": "node/6641864937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6644792888",
+        "addr:city": "La Reina",
+        "addr:country": "CL",
+        "addr:housenumber": "9073",
+        "addr:street": "Avenida Príncipe de Gales",
+        "addr:unit": "7C",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "local": "7C",
+        "name": "Clínica CELA La Reina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5361088,
+          -33.4397627
+        ]
+      },
+      "id": "node/6644792888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6644900666",
+        "addr:city": "Puente Alto",
+        "addr:country": "CL",
+        "addr:housenumber": "3692",
+        "addr:street": "Avenida Camilo Henríquez",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica CELA Mall Plaza Tobalaba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5567287,
+          -33.5701019
+        ]
+      },
+      "id": "node/6644900666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6651764177",
+        "addr:city": "La Florida",
+        "addr:country": "CL",
+        "addr:street": "San Carlos de Ancud",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica CELA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5993874,
+          -33.5162394
+        ]
+      },
+      "id": "node/6651764177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7009112985",
+        "addr:country": "CL",
+        "addr:housenumber": "4850",
+        "addr:street": "Avenida Libertador Bernardo O'Higgins",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Clínica RedSalud Santiago",
+        "opening_hours": "24/7",
+        "phone": "6008983600",
+        "website": "http://www.redsalud.cl",
+        "wikidata": "Q5775501",
+        "wikimedia_commons": "Category:Clínica RedSalud Santiago",
+        "wikipedia": "es:Clínica RedSalud Santiago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7018142,
+          -33.457119
+        ]
+      },
+      "id": "node/7009112985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7026011685",
+        "addr:country": "CL",
+        "addr:housenumber": "200",
+        "addr:street": "Avenida Vicuña Mackenna",
+        "amenity": "clinic",
+        "name": "Bionet S.A.",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6324879,
+          -33.4437059
+        ]
+      },
+      "id": "node/7026011685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7176094207",
+        "addr:country": "CL",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "name": "CESFAM Recreo",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6491659,
+          -33.5103591
+        ]
+      },
+      "id": "node/7176094207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7486128977",
+        "addr:city": "San Bernardo",
+        "addr:country": "CL",
+        "addr:housename": "Mall Plaza Sur",
+        "addr:housenumber": "20040",
+        "addr:street": "Avenida Presidente Jorge Alessandri Rodríguez",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Integramédica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7109026,
+          -33.6312524
+        ]
+      },
+      "id": "node/7486128977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7539141388",
+        "addr:country": "CL",
+        "addr:housenumber": "358",
+        "addr:street": "Avenida Bernardo O'Higgins",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "cardiology;surgery;diabetology;therapy;gynaecology;neurology;ophthalmology;otorhinolaryngology;psychology;psychiatry;traumatology;urology;paediatrics;endodontics;periodontics;implantology;radiology;dentist",
+        "level": "2",
+        "name": "VidaIntegra",
+        "opening_hours": "Mo-Fr 08:00-20:30, Sa 08:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7281375,
+          -33.3551824
+        ]
+      },
+      "id": "node/7539141388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7624248135",
+        "addr:city": "Providencia",
+        "addr:country": "CL",
+        "addr:housenumber": "0141",
+        "addr:street": "General Holley Paseo Peatonal",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica Le Ciel",
+        "website": "https://www.leciel.cl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6092226,
+          -33.419876
+        ]
+      },
+      "id": "node/7624248135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638783414",
+        "addr:country": "CL",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Convatec Medical Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6091191,
+          -33.4191849
+        ]
+      },
+      "id": "node/7638783414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638803554",
+        "addr:country": "CL",
+        "addr:housenumber": "2337",
+        "addr:street": "Avenida Andrés Bello",
+        "amenity": "clinic",
+        "name": "Clínica Somno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6090589,
+          -33.4187713
+        ]
+      },
+      "id": "node/7638803554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8818646893",
+        "addr:country": "CL",
+        "addr:housenumber": "671",
+        "addr:street": "Lo Marcoleta",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "radiology;clinical_laboratory;dentistry;psychology;general",
+        "name": "Apsa Salud",
+        "phone": "+56978084853"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7470313,
+          -33.358832
+        ]
+      },
+      "id": "node/8818646893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9000136976",
+        "addr:city": "San Joaquín",
+        "addr:country": "CL",
+        "addr:housenumber": "2514",
+        "addr:street": "Avenida Yalta",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "doctor",
+        "name": "CESFAM Yalta San Joaquín",
+        "official_name": "Centro de Salud Familiar",
+        "phone": "225960889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6366066,
+          -33.4786503
+        ]
+      },
+      "id": "node/9000136976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9001951628",
+        "addr:city": "Las Condes",
+        "addr:country": "CL",
+        "addr:housenumber": "4444",
+        "addr:street": "Nevería",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UC Christus",
+        "name:es": "Centro Médico UC San Jorge",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5829873,
+          -33.4153836
+        ]
+      },
+      "id": "node/9001951628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9082264350",
+        "addr:country": "CL",
+        "addr:housenumber": "908",
+        "addr:street": "Avenida Independencia",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cruz Nacional",
+        "website": "https://www.cruznacional.cl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6561168,
+          -33.420284
+        ]
+      },
+      "id": "node/9082264350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9167917966",
+        "addr:city": "Las Condes",
+        "addr:country": "CL",
+        "addr:housenumber": "5413",
+        "addr:street": "Avenida Presidente Kennedy",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica Arauco Salud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.579796,
+          -33.4024256
+        ]
+      },
+      "id": "node/9167917966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9228564385",
+        "addr:country": "CL",
+        "addr:housenumber": "1121",
+        "addr:street": "Profesor Alberto Zañartu",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Integramédica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6552738,
+          -33.4175104
+        ]
+      },
+      "id": "node/9228564385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9953779769",
+        "addr:country": "CL",
+        "addr:housenumber": "1930",
+        "addr:street": "Avenida Independencia",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dentist",
+        "name": "RedSalud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6605734,
+          -33.4091817
+        ]
+      },
+      "id": "node/9953779769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10268974309",
+        "addr:country": "CL",
+        "addr:housenumber": "2905",
+        "addr:postcode": "7550024",
+        "addr:street": "Avenida Vitacura",
+        "amenity": "clinic",
+        "name:en": "GenoSUR - Laboratorio Clinico",
+        "opening_hours": "Mo-Su 08:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6028435,
+          -33.4123789
+        ]
+      },
+      "id": "node/10268974309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10719134027",
+        "addr:city": "La Reina",
+        "addr:country": "CL",
+        "addr:housenumber": "9073",
+        "addr:street": "Avenida Príncipe de Gales",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica Alemana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5362276,
+          -33.440957
+        ]
+      },
+      "id": "node/10719134027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10726889611",
+        "addr:city": "La Reina",
+        "addr:country": "CL",
+        "addr:housenumber": "9073",
+        "addr:street": "Avenida Príncipe de Gales",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica Meds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5361522,
+          -33.4401112
+        ]
+      },
+      "id": "node/10726889611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10992814872",
+        "addr:city": "Santiago",
+        "addr:country": "CL",
+        "addr:housenumber": "654",
+        "addr:street": "Avenida Libertador Bernardo O'Higgins",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "IntegraMédica Alameda",
+        "opening_hours": "Mo-Sa 07:30-20:00",
+        "operator": "Bupa",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6454667,
+          -33.4431409
+        ]
+      },
+      "id": "node/10992814872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11105954880",
+        "addr:city": "Independencia",
+        "addr:country": "CL",
+        "addr:housenumber": "565",
+        "addr:street": "Avenida Independencia",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro Médico Red Salud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6540306,
+          -33.4247554
+        ]
+      },
+      "id": "node/11105954880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11172535584",
+        "addr:city": "Santiago",
+        "addr:country": "CL",
+        "addr:housenumber": "1708",
+        "addr:street": "Padre Orellana",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "hospital",
+        "name": "CESFAM Padre Orellana",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6297342,
+          -33.4663653
+        ]
+      },
+      "id": "node/11172535584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11178050511",
+        "addr:country": "CL",
+        "addr:housenumber": "5601",
+        "addr:street": "Avenida Presidente Kennedy",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínic Belenus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5748406,
+          -33.4016826
+        ]
+      },
+      "id": "node/11178050511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11186685241",
+        "addr:city": "Ñuñoa",
+        "addr:country": "CL",
+        "addr:housenumber": "4369",
+        "addr:street": "Avenida Grecia",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM Salvador Bustos",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5881188,
+          -33.4663611
+        ]
+      },
+      "id": "node/11186685241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11205578633",
+        "addr:city": "Macul",
+        "addr:country": "CL",
+        "addr:housenumber": "5570",
+        "addr:street": "Las Torcazas",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM Félix de Amesti",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5967782,
+          -33.5037399
+        ]
+      },
+      "id": "node/11205578633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11205742616",
+        "addr:city": "Peñalolen",
+        "addr:country": "CL",
+        "addr:housenumber": "5960",
+        "addr:street": "El Litoral",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM Padre Gerardo Whelan",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5742453,
+          -33.4740005
+        ]
+      },
+      "id": "node/11205742616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11207962710",
+        "addr:city": "Santiago",
+        "addr:country": "CL",
+        "addr:housenumber": "740",
+        "addr:street": "Avenida Recoleta",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "yes",
+        "name": "CESFAM Recoleta",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6457981,
+          -33.42384
+        ]
+      },
+      "id": "node/11207962710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11210547186",
+        "addr:city": "San Miguel",
+        "addr:country": "CL",
+        "addr:housenumber": "1319",
+        "addr:street": "Ángel Guarello",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM Barros Luco",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6573931,
+          -33.4934909
+        ]
+      },
+      "id": "node/11210547186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11210589418",
+        "addr:city": "Lo Prado",
+        "addr:country": "CL",
+        "addr:housenumber": "5302",
+        "addr:street": "Camino de Loyola",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM Santa Anita",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7090685,
+          -33.4391591
+        ]
+      },
+      "id": "node/11210589418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11210598676",
+        "addr:city": "San Jaoquín",
+        "addr:country": "CL",
+        "addr:housenumber": "3223",
+        "addr:street": "Francisca de Rimini",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM/ SAPU San Joaquín",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6236869,
+          -33.4867703
+        ]
+      },
+      "id": "node/11210598676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11210876835",
+        "addr:city": "Lo Espejo",
+        "addr:country": "CL",
+        "addr:housenumber": "8260",
+        "addr:street": "Avenida Central Cardenal Raúl Silva Henríquez",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM Julio Acuña Pinzón",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6974858,
+          -33.5226967
+        ]
+      },
+      "id": "node/11210876835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11218710505",
+        "addr:city": "Buin",
+        "addr:country": "CL",
+        "addr:street": "Bellavista",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM Maipo",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7846017,
+          -33.7346279
+        ]
+      },
+      "id": "node/11218710505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11222860635",
+        "addr:city": "Cerro Navia",
+        "addr:country": "CL",
+        "addr:housenumber": "1629",
+        "addr:street": "Huelén",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "doctor",
+        "name": "CESFAM Doctor Adalberto Steeger",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7410532,
+          -33.4186867
+        ]
+      },
+      "id": "node/11222860635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11222889096",
+        "addr:city": "Quinta Normal",
+        "addr:country": "CL",
+        "addr:housenumber": "5612",
+        "addr:street": "Janequeo",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "doctor",
+        "name": "CESFAM Garín",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7141744,
+          -33.4304339
+        ]
+      },
+      "id": "node/11222889096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11222921308",
+        "addr:city": "Pudahuel",
+        "addr:country": "CL",
+        "addr:housenumber": "8698",
+        "addr:street": "San Francisco",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "doctor",
+        "name": "CESFAM PudahuEl Estrella",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7508828,
+          -33.436383
+        ]
+      },
+      "id": "node/11222921308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11223015423",
+        "addr:city": "Melipilla",
+        "addr:country": "CL",
+        "addr:housenumber": "1650",
+        "addr:street": "Silva Chávez",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "doctor",
+        "name": "CESFAM Doctor Francisco Boris Soler",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2181933,
+          -33.7013524
+        ]
+      },
+      "id": "node/11223015423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11223025438",
+        "addr:city": "El Monte",
+        "addr:country": "CL",
+        "addr:housenumber": "531",
+        "addr:street": "Avenida Los Libertadores",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "doctor",
+        "name": "CESFAM El Monte",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9859342,
+          -33.6823691
+        ]
+      },
+      "id": "node/11223025438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11223027519",
+        "addr:city": "San Pedro",
+        "addr:country": "CL",
+        "addr:housenumber": "11",
+        "addr:street": "Avenida Hermosilla",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "doctor",
+        "name": "CESFAM San Pedro",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4624978,
+          -33.8931891
+        ]
+      },
+      "id": "node/11223027519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11223027520",
+        "addr:city": "Alhué",
+        "addr:country": "CL",
+        "addr:street": "21 De Mayo",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "doctor",
+        "name": "CESFAM VilLa Alhué",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1002101,
+          -34.0318464
+        ]
+      },
+      "id": "node/11223027520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11223053142",
+        "addr:city": "Talagante",
+        "addr:country": "CL",
+        "addr:housenumber": "2049",
+        "addr:street": "Esmeralda",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "doctor",
+        "name": "CESFAM Doctor Alberto Allende Jones",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9376127,
+          -33.6698575
+        ]
+      },
+      "id": "node/11223053142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11284339296",
+        "addr:city": "San Ramón",
+        "addr:country": "CL",
+        "addr:housenumber": "6543",
+        "addr:street": "Alvear",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM Modelo",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.642687,
+          -33.5197779
+        ]
+      },
+      "id": "node/11284339296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11338795861",
+        "addr:city": "Maipú",
+        "addr:country": "CL",
+        "addr:housenumber": "1201",
+        "addr:street": "Avenida El Olimpo",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.775111,
+          -33.5179175
+        ]
+      },
+      "id": "node/11338795861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11413570681",
+        "addr:city": "Las Condes",
+        "addr:country": "CL",
+        "addr:housename": "Mall Plaza Los Domínicos",
+        "addr:housenumber": "875",
+        "addr:street": "Avenida Padre Hurtado Sur",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Integramédica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5397757,
+          -33.4157724
+        ]
+      },
+      "id": "node/11413570681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11895176782",
+        "addr:city": "Las Condes",
+        "addr:housenumber": "7331",
+        "addr:street": "Nueva Apoquindo",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica Tomás Moro",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5526648,
+          -33.4090128
+        ]
+      },
+      "id": "node/11895176782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11942899262",
+        "addr:city": "Colina",
+        "addr:housenumber": "0269",
+        "addr:street": "La Barca",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry",
+        "name": "Cosam Colina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6757749,
+          -33.2075167
+        ]
+      },
+      "id": "node/11942899262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11942899860",
+        "addr:city": "Recoleta",
+        "addr:housenumber": "2338",
+        "addr:street": "La Colonia",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry",
+        "name": "Cosam Recoleta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6462356,
+          -33.4046721
+        ]
+      },
+      "id": "node/11942899860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11942903030",
+        "addr:city": "Tiltil",
+        "addr:street": "Diagonal Daniel Moya",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry",
+        "name": "Cosam Til Til"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9214585,
+          -33.0876833
+        ]
+      },
+      "id": "node/11942903030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11943167161",
+        "addr:city": "Lampa",
+        "addr:street": "Argentina",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cecosf Batuco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8125705,
+          -33.229906
+        ]
+      },
+      "id": "node/11943167161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11943197769",
+        "addr:city": "Quilicura",
+        "addr:housenumber": "525",
+        "addr:street": "San Luis",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "emergency",
+        "name": "Sapu Irene Frei de Cid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.746802,
+          -33.3656278
+        ]
+      },
+      "id": "node/11943197769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11945086949",
+        "addr:city": "renca",
+        "addr:housenumber": "8005",
+        "addr:street": "Brasil",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cesfam Bicentenario Renca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7499467,
+          -33.397766
+        ]
+      },
+      "id": "node/11945086949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11945128731",
+        "addr:city": "Pudahuel",
+        "addr:housenumber": "8759",
+        "addr:street": "Avenida La Laguna Sur",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cesfam Dr. Gustavo Molina Guzmán"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7606138,
+          -33.4581157
+        ]
+      },
+      "id": "node/11945128731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11945151554",
+        "addr:city": "Lo Prado",
+        "addr:street": "Avenida Teniente Cruz",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cesfam Dr Carlos Avendaño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7405655,
+          -33.4367003
+        ]
+      },
+      "id": "node/11945151554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11945191747",
+        "addr:city": "Peñaflor",
+        "addr:housenumber": "73",
+        "addr:street": "Concepción",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cesfam Dr. Fernando Monckeberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.871559,
+          -33.6099528
+        ]
+      },
+      "id": "node/11945191747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11945553983",
+        "addr:city": "Melipilla",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cesfam San Manuel Melipilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2577057,
+          -33.7733845
+        ]
+      },
+      "id": "node/11945553983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11947864593",
+        "addr:city": "Cerrillos",
+        "addr:housenumber": "6376",
+        "addr:street": "Salomón Sack",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cesfam Dr. Norman Voulliéme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7197543,
+          -33.4928983
+        ]
+      },
+      "id": "node/11947864593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11947877222",
+        "addr:city": "Maipu",
+        "addr:housenumber": "1841",
+        "addr:street": "El Conquistador",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cesfam Doctora Ana María Juricic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7968731,
+          -33.514037
+        ]
+      },
+      "id": "node/11947877222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11947942012",
+        "addr:city": "Maipú",
+        "addr:housenumber": "491",
+        "addr:street": "Mar de Chile",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cesfam Dr. Ivan Insunza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7716036,
+          -33.4842238
+        ]
+      },
+      "id": "node/11947942012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11948512235",
+        "addr:city": "Maipú",
+        "addr:housenumber": "4382",
+        "addr:street": "Sur de Chile",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Cecosf lo Errazuriz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7250478,
+          -33.4730555
+        ]
+      },
+      "id": "node/11948512235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11948565045",
+        "addr:city": "Lo Barnechea",
+        "addr:housenumber": "13730",
+        "addr:street": "Robles",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry",
+        "name": "COSAM Lo Barnechea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5069936,
+          -33.3602114
+        ]
+      },
+      "id": "node/11948565045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11959203456",
+        "addr:city": "Pirque",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM Dr. José Manuel Balmaceda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5754244,
+          -33.6367791
+        ]
+      },
+      "id": "node/11959203456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11963015044",
+        "addr:city": "Pirque",
+        "addr:street": "Circunvalación Máximo Valdés Fontecilla",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry",
+        "name": "COSAM Pirque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5323108,
+          -33.6722564
+        ]
+      },
+      "id": "node/11963015044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12027000152",
+        "addr:housenumber": "11530",
+        "addr:street": "Los Raulíes",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM Dra. Haydée López Cassou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6671499,
+          -33.5701772
+        ]
+      },
+      "id": "node/12027000152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12143313439",
+        "addr:city": "Santiago",
+        "addr:street": "Bandera",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "VidaIntegra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6518765,
+          -33.4416766
+        ]
+      },
+      "id": "node/12143313439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12233751036",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Red Salud Apoquindo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5810332,
+          -33.4124461
+        ]
+      },
+      "id": "node/12233751036"
+    }
+  ]
+}
