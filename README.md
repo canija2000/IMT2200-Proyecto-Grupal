@@ -1,4 +1,6 @@
 ## Repositorio IMT2200 - Proyecto Grupal
+
+La entrega se encuentra en el archivo ```Entrega.ipynb```
 -------
 Participantes: 
 
